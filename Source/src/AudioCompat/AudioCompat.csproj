@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net8.0</TargetFramework><AssemblyName>FMOD</AssemblyName><AssemblyVersion>4.36.0.18746</AssemblyVersion><AllowUnsafeBlocks>true</AllowUnsafeBlocks><ImplicitUsings>enable</ImplicitUsings><Nullable>disable</Nullable></PropertyGroup>
+  <ItemGroup><PackageReference Include="NVorbis" Version="0.10.5" /></ItemGroup>
+</Project>

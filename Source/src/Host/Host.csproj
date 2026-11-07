@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net8.0</TargetFramework><OutputType>Exe</OutputType><AssemblyName>BastionRGDS.Host</AssemblyName><ImplicitUsings>enable</ImplicitUsings><Nullable>disable</Nullable><EnableUnsafeBinaryFormatterSerialization>true</EnableUnsafeBinaryFormatterSerialization></PropertyGroup>
+  <ItemGroup><ProjectReference Include="../AudioCompat/AudioCompat.csproj" /><Reference Include="FNA"><HintPath>../../build/FNA/bin/Release/net8.0/FNA.dll</HintPath></Reference></ItemGroup>
+</Project>

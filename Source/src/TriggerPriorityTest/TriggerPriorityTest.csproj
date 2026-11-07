@@ -1,0 +1,1 @@
+<Project Sdk="Microsoft.NET.Sdk"><PropertyGroup><TargetFramework>net8.0</TargetFramework><OutputType>Exe</OutputType><ImplicitUsings>enable</ImplicitUsings></PropertyGroup><ItemGroup><Reference Include="FNA"><HintPath>../../build/FNA/bin/Release/net8.0/FNA.dll</HintPath></Reference></ItemGroup></Project>

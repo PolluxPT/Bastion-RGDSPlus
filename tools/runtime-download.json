@@ -1,0 +1,6 @@
+{
+  "name": "dotnet-runtime-linux-arm64.tar.gz",
+  "rid": "linux-arm64",
+  "url": "https://builds.dotnet.microsoft.com/dotnet/Runtime/8.0.15/dotnet-runtime-8.0.15-linux-arm64.tar.gz",
+  "hash": "f63359a5da4798f8fdfbf0beefd0aa9cd69d5953b2629bc1c68ecc67083572fa9370a89c18e3b4bdc23671df657da756ec6306951f5cadf20062a8bd77ea400c"
+}
