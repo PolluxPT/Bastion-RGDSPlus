@@ -1,0 +1,1 @@
+Copy ONLY Bastion.exe and the complete Content folder from your legally obtained Linux PC game into this game folder. Bastion.bmp is optional. Do not overwrite the bundled FNA.dll, FMOD.dll or port files with PC libraries. Launch APPS/Bastion.sh afterward.

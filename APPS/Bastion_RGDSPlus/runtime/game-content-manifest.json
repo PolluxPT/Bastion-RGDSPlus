@@ -1,0 +1,4837 @@
+{
+  "supported_original_sha256": "e8d028fdca5069115202d45695cc44e4e9c39bd27179415c65cc59182db3d748",
+  "files": [
+    {
+      "path": "Content/720p/Attack01.pkg",
+      "size": 10890543
+    },
+    {
+      "path": "Content/720p/Backgrounds.pkg",
+      "size": 6289175
+    },
+    {
+      "path": "Content/720p/BigSupport.pkg",
+      "size": 7194673
+    },
+    {
+      "path": "Content/720p/Bull.pkg",
+      "size": 821903
+    },
+    {
+      "path": "Content/720p/Cannon.pkg",
+      "size": 1840117
+    },
+    {
+      "path": "Content/720p/Challenge01.pkg",
+      "size": 1809785
+    },
+    {
+      "path": "Content/720p/Challenge02.pkg",
+      "size": 4160228
+    },
+    {
+      "path": "Content/720p/Challenge03.pkg",
+      "size": 3332012
+    },
+    {
+      "path": "Content/720p/Challenge04.pkg",
+      "size": 3500723
+    },
+    {
+      "path": "Content/720p/Challenge05.pkg",
+      "size": 3970166
+    },
+    {
+      "path": "Content/720p/Challenge06.pkg",
+      "size": 1844217
+    },
+    {
+      "path": "Content/720p/Challenge07.pkg",
+      "size": 3614153
+    },
+    {
+      "path": "Content/720p/Challenge08.pkg",
+      "size": 4160727
+    },
+    {
+      "path": "Content/720p/Challenge09.pkg",
+      "size": 3379493
+    },
+    {
+      "path": "Content/720p/Challenge10.pkg",
+      "size": 2899391
+    },
+    {
+      "path": "Content/720p/Challenge11.pkg",
+      "size": 2293210
+    },
+    {
+      "path": "Content/720p/Challenge12.pkg",
+      "size": 2600843
+    },
+    {
+      "path": "Content/720p/Crossroads01.pkg",
+      "size": 7213647
+    },
+    {
+      "path": "Content/720p/Crossroads02.pkg",
+      "size": 3758627
+    },
+    {
+      "path": "Content/720p/Deepspawn.pkg",
+      "size": 329194
+    },
+    {
+      "path": "Content/720p/Dev.pkg",
+      "size": 1453227
+    },
+    {
+      "path": "Content/720p/ESRB.pkg",
+      "size": 28681
+    },
+    {
+      "path": "Content/720p/End01.pkg",
+      "size": 2711257
+    },
+    {
+      "path": "Content/720p/Falling01.pkg",
+      "size": 4510605
+    },
+    {
+      "path": "Content/720p/FinalArena01.pkg",
+      "size": 4583281
+    },
+    {
+      "path": "Content/720p/FinalChase01.pkg",
+      "size": 5206561
+    },
+    {
+      "path": "Content/720p/FinalRam01.pkg",
+      "size": 5383285
+    },
+    {
+      "path": "Content/720p/FinalZulf01.pkg",
+      "size": 9914133
+    },
+    {
+      "path": "Content/720p/Firefly.pkg",
+      "size": 233773
+    },
+    {
+      "path": "Content/720p/Flamethrower.pkg",
+      "size": 576025
+    },
+    {
+      "path": "Content/720p/Flamethrower_Nova.pkg",
+      "size": 89574
+    },
+    {
+      "path": "Content/720p/FlyingSwarmer.pkg",
+      "size": 4963969
+    },
+    {
+      "path": "Content/720p/Fortress01.pkg",
+      "size": 4774333
+    },
+    {
+      "path": "Content/720p/Frog.pkg",
+      "size": 4199785
+    },
+    {
+      "path": "Content/720p/Fx.pkg",
+      "size": 2032260
+    },
+    {
+      "path": "Content/720p/GUI.pkg",
+      "size": 8935437
+    },
+    {
+      "path": "Content/720p/GasfellaSquirt.pkg",
+      "size": 6346087
+    },
+    {
+      "path": "Content/720p/Gauntlet01.pkg",
+      "size": 3904642
+    },
+    {
+      "path": "Content/720p/Grenade.pkg",
+      "size": 230558
+    },
+    {
+      "path": "Content/720p/Hammer.pkg",
+      "size": 3903684
+    },
+    {
+      "path": "Content/720p/Hammer_Whirlwind.pkg",
+      "size": 115075
+    },
+    {
+      "path": "Content/720p/HealthPotion.pkg",
+      "size": 105941
+    },
+    {
+      "path": "Content/720p/Holdout01.pkg",
+      "size": 5922246
+    },
+    {
+      "path": "Content/720p/Hunt01.pkg",
+      "size": 4119725
+    },
+    {
+      "path": "Content/720p/Jump.pkg",
+      "size": 744937
+    },
+    {
+      "path": "Content/720p/Launch.pkg",
+      "size": 456348
+    },
+    {
+      "path": "Content/720p/Longbow.pkg",
+      "size": 1534876
+    },
+    {
+      "path": "Content/720p/Longbow_BouncingShot.pkg",
+      "size": 5
+    },
+    {
+      "path": "Content/720p/Machete.pkg",
+      "size": 2618113
+    },
+    {
+      "path": "Content/720p/Machete_Bladestorm.pkg",
+      "size": 1026617
+    },
+    {
+      "path": "Content/720p/MainMenu.pkg",
+      "size": 18248643
+    },
+    {
+      "path": "Content/720p/Mine.pkg",
+      "size": 439573
+    },
+    {
+      "path": "Content/720p/Mole.pkg",
+      "size": 1654755
+    },
+    {
+      "path": "Content/720p/Mortar.pkg",
+      "size": 1167526
+    },
+    {
+      "path": "Content/720p/Mortar_SummonTurret.pkg",
+      "size": 1014591
+    },
+    {
+      "path": "Content/720p/Moving01.pkg",
+      "size": 6672680
+    },
+    {
+      "path": "Content/720p/Onslaught01.pkg",
+      "size": 4899572
+    },
+    {
+      "path": "Content/720p/Onslaught02.pkg",
+      "size": 2622253
+    },
+    {
+      "path": "Content/720p/Onslaught03.pkg",
+      "size": 2963179
+    },
+    {
+      "path": "Content/720p/Onslaught04.pkg",
+      "size": 6404830
+    },
+    {
+      "path": "Content/720p/Platforms01.pkg",
+      "size": 5494439
+    },
+    {
+      "path": "Content/720p/PlayerAreaRoot.pkg",
+      "size": 791539
+    },
+    {
+      "path": "Content/720p/PlayerBase.pkg",
+      "size": 9472865
+    },
+    {
+      "path": "Content/720p/PlayerDopplewalk.pkg",
+      "size": 1403509
+    },
+    {
+      "path": "Content/720p/PlayerFullDeflection.pkg",
+      "size": 132475
+    },
+    {
+      "path": "Content/720p/ProtoIntro01.pkg",
+      "size": 2826057
+    },
+    {
+      "path": "Content/720p/ProtoIntro01a.pkg",
+      "size": 2759680
+    },
+    {
+      "path": "Content/720p/ProtoIntro01b.pkg",
+      "size": 4695026
+    },
+    {
+      "path": "Content/720p/ProtoTown03.pkg",
+      "size": 11251923
+    },
+    {
+      "path": "Content/720p/RamPound.pkg",
+      "size": 1377765
+    },
+    {
+      "path": "Content/720p/RamShieldBash.pkg",
+      "size": 2587930
+    },
+    {
+      "path": "Content/720p/RamSwipe.pkg",
+      "size": 947425
+    },
+    {
+      "path": "Content/720p/Ram_Earthquake.pkg",
+      "size": 40339
+    },
+    {
+      "path": "Content/720p/Repeater.pkg",
+      "size": 1126568
+    },
+    {
+      "path": "Content/720p/Repeater_TwirlShot.pkg",
+      "size": 88857
+    },
+    {
+      "path": "Content/720p/Rescue01.pkg",
+      "size": 4960095
+    },
+    {
+      "path": "Content/720p/Revolvers.pkg",
+      "size": 1829501
+    },
+    {
+      "path": "Content/720p/Rifle.pkg",
+      "size": 1813640
+    },
+    {
+      "path": "Content/720p/Rifle_LaserShot.pkg",
+      "size": 1816
+    },
+    {
+      "path": "Content/720p/Rifle_StickyBomb.pkg",
+      "size": 5
+    },
+    {
+      "path": "Content/720p/Roll.pkg",
+      "size": 745637
+    },
+    {
+      "path": "Content/720p/Scenes01.pkg",
+      "size": 9643753
+    },
+    {
+      "path": "Content/720p/Scenes02.pkg",
+      "size": 2638468
+    },
+    {
+      "path": "Content/720p/Scorched01.pkg",
+      "size": 3486325
+    },
+    {
+      "path": "Content/720p/ShieldBash.pkg",
+      "size": 1174845
+    },
+    {
+      "path": "Content/720p/Shield_SummonSquirt.pkg",
+      "size": 422754
+    },
+    {
+      "path": "Content/720p/Shotgun.pkg",
+      "size": 1703958
+    },
+    {
+      "path": "Content/720p/Shotgun_BulletRain.pkg",
+      "size": 159328
+    },
+    {
+      "path": "Content/720p/Shrine01.pkg",
+      "size": 5795709
+    },
+    {
+      "path": "Content/720p/Siege01.pkg",
+      "size": 6393579
+    },
+    {
+      "path": "Content/720p/Spear.pkg",
+      "size": 1888289
+    },
+    {
+      "path": "Content/720p/Spear_Jump.pkg",
+      "size": 660310
+    },
+    {
+      "path": "Content/720p/Spear_Spin.pkg",
+      "size": 89105
+    },
+    {
+      "path": "Content/720p/SummonPortalTurret.pkg",
+      "size": 521850
+    },
+    {
+      "path": "Content/720p/Survivor01.pkg",
+      "size": 4243582
+    },
+    {
+      "path": "Content/720p/Survivor02.pkg",
+      "size": 4614945
+    },
+    {
+      "path": "Content/720p/Ura.pkg",
+      "size": 4322901
+    },
+    {
+      "path": "Content/720p/Voyage01.pkg",
+      "size": 6557300
+    },
+    {
+      "path": "Content/Attack01.pkg",
+      "size": 28834728
+    },
+    {
+      "path": "Content/Audio/Attack01WaveBank.xwb",
+      "size": 1345060
+    },
+    {
+      "path": "Content/Audio/BastionAudio.xgs",
+      "size": 1346
+    },
+    {
+      "path": "Content/Audio/BastionSoundBank.xsb",
+      "size": 378772
+    },
+    {
+      "path": "Content/Audio/BastionWaveBank.xwb",
+      "size": 19521932
+    },
+    {
+      "path": "Content/Audio/Challenge01WaveBank.xwb",
+      "size": 494117
+    },
+    {
+      "path": "Content/Audio/Challenge02WaveBank.xwb",
+      "size": 762938
+    },
+    {
+      "path": "Content/Audio/Challenge03WaveBank.xwb",
+      "size": 762557
+    },
+    {
+      "path": "Content/Audio/Challenge04WaveBank.xwb",
+      "size": 607417
+    },
+    {
+      "path": "Content/Audio/Challenge05WaveBank.xwb",
+      "size": 627713
+    },
+    {
+      "path": "Content/Audio/Challenge06WaveBank.xwb",
+      "size": 610744
+    },
+    {
+      "path": "Content/Audio/Challenge07WaveBank.xwb",
+      "size": 724277
+    },
+    {
+      "path": "Content/Audio/Challenge08WaveBank.xwb",
+      "size": 608028
+    },
+    {
+      "path": "Content/Audio/Challenge09WaveBank.xwb",
+      "size": 699109
+    },
+    {
+      "path": "Content/Audio/Challenge10WaveBank.xwb",
+      "size": 500281
+    },
+    {
+      "path": "Content/Audio/Challenge11WaveBank.xwb",
+      "size": 591846
+    },
+    {
+      "path": "Content/Audio/Challenge12WaveBank.xwb",
+      "size": 986572
+    },
+    {
+      "path": "Content/Audio/Crossroads01WaveBank.xwb",
+      "size": 2069176
+    },
+    {
+      "path": "Content/Audio/Crossroads02WaveBank.xwb",
+      "size": 2074035
+    },
+    {
+      "path": "Content/Audio/End01WaveBank.xwb",
+      "size": 3060473
+    },
+    {
+      "path": "Content/Audio/Falling01WaveBank.xwb",
+      "size": 1881415
+    },
+    {
+      "path": "Content/Audio/FinalArena01WaveBank.xwb",
+      "size": 1016104
+    },
+    {
+      "path": "Content/Audio/FinalChase01WaveBank.xwb",
+      "size": 967272
+    },
+    {
+      "path": "Content/Audio/FinalRam01WaveBank.xwb",
+      "size": 927669
+    },
+    {
+      "path": "Content/Audio/FinalZulf01WaveBank.xwb",
+      "size": 1090722
+    },
+    {
+      "path": "Content/Audio/Fortress01WaveBank.xwb",
+      "size": 1503583
+    },
+    {
+      "path": "Content/Audio/Gauntlet01WaveBank.xwb",
+      "size": 2347670
+    },
+    {
+      "path": "Content/Audio/Holdout01WaveBank.xwb",
+      "size": 1528962
+    },
+    {
+      "path": "Content/Audio/Hunt01WaveBank.xwb",
+      "size": 2229851
+    },
+    {
+      "path": "Content/Audio/Moving01WaveBank.xwb",
+      "size": 2456951
+    },
+    {
+      "path": "Content/Audio/Onslaught01WaveBank.xwb",
+      "size": 1824851
+    },
+    {
+      "path": "Content/Audio/Onslaught02WaveBank.xwb",
+      "size": 1980432
+    },
+    {
+      "path": "Content/Audio/Onslaught03WaveBank.xwb",
+      "size": 1934499
+    },
+    {
+      "path": "Content/Audio/Onslaught04WaveBank.xwb",
+      "size": 3553678
+    },
+    {
+      "path": "Content/Audio/Platforms01WaveBank.xwb",
+      "size": 2246610
+    },
+    {
+      "path": "Content/Audio/ProtoIntro01WaveBank.xwb",
+      "size": 1237957
+    },
+    {
+      "path": "Content/Audio/ProtoIntro01aWaveBank.xwb",
+      "size": 694515
+    },
+    {
+      "path": "Content/Audio/ProtoTown03WaveBank.xwb",
+      "size": 11491397
+    },
+    {
+      "path": "Content/Audio/Rescue01WaveBank.xwb",
+      "size": 2549223
+    },
+    {
+      "path": "Content/Audio/Scenes01WaveBank.xwb",
+      "size": 2106665
+    },
+    {
+      "path": "Content/Audio/Scenes02WaveBank.xwb",
+      "size": 1262478
+    },
+    {
+      "path": "Content/Audio/Scorched01WaveBank.xwb",
+      "size": 1864940
+    },
+    {
+      "path": "Content/Audio/Shrine01WaveBank.xwb",
+      "size": 1573312
+    },
+    {
+      "path": "Content/Audio/Siege01WaveBank.xwb",
+      "size": 2731870
+    },
+    {
+      "path": "Content/Audio/Streaming/0.ogg",
+      "size": 1276415
+    },
+    {
+      "path": "Content/Audio/Streaming/1.ogg",
+      "size": 1237657
+    },
+    {
+      "path": "Content/Audio/Streaming/10.ogg",
+      "size": 2258663
+    },
+    {
+      "path": "Content/Audio/Streaming/100.ogg",
+      "size": 46064
+    },
+    {
+      "path": "Content/Audio/Streaming/101.ogg",
+      "size": 53749
+    },
+    {
+      "path": "Content/Audio/Streaming/102.ogg",
+      "size": 44204
+    },
+    {
+      "path": "Content/Audio/Streaming/103.ogg",
+      "size": 52292
+    },
+    {
+      "path": "Content/Audio/Streaming/104.ogg",
+      "size": 56863
+    },
+    {
+      "path": "Content/Audio/Streaming/105.ogg",
+      "size": 41886
+    },
+    {
+      "path": "Content/Audio/Streaming/106.ogg",
+      "size": 41214
+    },
+    {
+      "path": "Content/Audio/Streaming/107.ogg",
+      "size": 35923
+    },
+    {
+      "path": "Content/Audio/Streaming/108.ogg",
+      "size": 1132965
+    },
+    {
+      "path": "Content/Audio/Streaming/109.ogg",
+      "size": 1135897
+    },
+    {
+      "path": "Content/Audio/Streaming/11.ogg",
+      "size": 141088
+    },
+    {
+      "path": "Content/Audio/Streaming/110.ogg",
+      "size": 918495
+    },
+    {
+      "path": "Content/Audio/Streaming/111.ogg",
+      "size": 932289
+    },
+    {
+      "path": "Content/Audio/Streaming/112.ogg",
+      "size": 1161141
+    },
+    {
+      "path": "Content/Audio/Streaming/113.ogg",
+      "size": 63511
+    },
+    {
+      "path": "Content/Audio/Streaming/114.ogg",
+      "size": 66311
+    },
+    {
+      "path": "Content/Audio/Streaming/115.ogg",
+      "size": 49099
+    },
+    {
+      "path": "Content/Audio/Streaming/116.ogg",
+      "size": 17843
+    },
+    {
+      "path": "Content/Audio/Streaming/117.ogg",
+      "size": 32614
+    },
+    {
+      "path": "Content/Audio/Streaming/118.ogg",
+      "size": 66440
+    },
+    {
+      "path": "Content/Audio/Streaming/119.ogg",
+      "size": 62298
+    },
+    {
+      "path": "Content/Audio/Streaming/12.ogg",
+      "size": 1516128
+    },
+    {
+      "path": "Content/Audio/Streaming/120.ogg",
+      "size": 61246
+    },
+    {
+      "path": "Content/Audio/Streaming/121.ogg",
+      "size": 53349
+    },
+    {
+      "path": "Content/Audio/Streaming/122.ogg",
+      "size": 61031
+    },
+    {
+      "path": "Content/Audio/Streaming/123.ogg",
+      "size": 46261
+    },
+    {
+      "path": "Content/Audio/Streaming/124.ogg",
+      "size": 37335
+    },
+    {
+      "path": "Content/Audio/Streaming/125.ogg",
+      "size": 20406
+    },
+    {
+      "path": "Content/Audio/Streaming/126.ogg",
+      "size": 18677
+    },
+    {
+      "path": "Content/Audio/Streaming/127.ogg",
+      "size": 11786
+    },
+    {
+      "path": "Content/Audio/Streaming/128.ogg",
+      "size": 13594
+    },
+    {
+      "path": "Content/Audio/Streaming/129.ogg",
+      "size": 15513
+    },
+    {
+      "path": "Content/Audio/Streaming/13.ogg",
+      "size": 3595313
+    },
+    {
+      "path": "Content/Audio/Streaming/130.ogg",
+      "size": 10590
+    },
+    {
+      "path": "Content/Audio/Streaming/131.ogg",
+      "size": 15199
+    },
+    {
+      "path": "Content/Audio/Streaming/132.ogg",
+      "size": 16137
+    },
+    {
+      "path": "Content/Audio/Streaming/133.ogg",
+      "size": 13135
+    },
+    {
+      "path": "Content/Audio/Streaming/134.ogg",
+      "size": 12696
+    },
+    {
+      "path": "Content/Audio/Streaming/135.ogg",
+      "size": 13462
+    },
+    {
+      "path": "Content/Audio/Streaming/136.ogg",
+      "size": 14317
+    },
+    {
+      "path": "Content/Audio/Streaming/137.ogg",
+      "size": 30423
+    },
+    {
+      "path": "Content/Audio/Streaming/138.ogg",
+      "size": 26015
+    },
+    {
+      "path": "Content/Audio/Streaming/139.ogg",
+      "size": 64234
+    },
+    {
+      "path": "Content/Audio/Streaming/14.ogg",
+      "size": 2201150
+    },
+    {
+      "path": "Content/Audio/Streaming/140.ogg",
+      "size": 112218
+    },
+    {
+      "path": "Content/Audio/Streaming/141.ogg",
+      "size": 100310
+    },
+    {
+      "path": "Content/Audio/Streaming/142.ogg",
+      "size": 67044
+    },
+    {
+      "path": "Content/Audio/Streaming/143.ogg",
+      "size": 79845
+    },
+    {
+      "path": "Content/Audio/Streaming/144.ogg",
+      "size": 112890
+    },
+    {
+      "path": "Content/Audio/Streaming/145.ogg",
+      "size": 132869
+    },
+    {
+      "path": "Content/Audio/Streaming/146.ogg",
+      "size": 117476
+    },
+    {
+      "path": "Content/Audio/Streaming/147.ogg",
+      "size": 107398
+    },
+    {
+      "path": "Content/Audio/Streaming/148.ogg",
+      "size": 132011
+    },
+    {
+      "path": "Content/Audio/Streaming/149.ogg",
+      "size": 105745
+    },
+    {
+      "path": "Content/Audio/Streaming/15.ogg",
+      "size": 1853593
+    },
+    {
+      "path": "Content/Audio/Streaming/150.ogg",
+      "size": 151959
+    },
+    {
+      "path": "Content/Audio/Streaming/151.ogg",
+      "size": 3702379
+    },
+    {
+      "path": "Content/Audio/Streaming/152.ogg",
+      "size": 4056276
+    },
+    {
+      "path": "Content/Audio/Streaming/153.ogg",
+      "size": 68196
+    },
+    {
+      "path": "Content/Audio/Streaming/154.ogg",
+      "size": 26274
+    },
+    {
+      "path": "Content/Audio/Streaming/155.ogg",
+      "size": 35667
+    },
+    {
+      "path": "Content/Audio/Streaming/156.ogg",
+      "size": 40122
+    },
+    {
+      "path": "Content/Audio/Streaming/157.ogg",
+      "size": 35391
+    },
+    {
+      "path": "Content/Audio/Streaming/158.ogg",
+      "size": 39729
+    },
+    {
+      "path": "Content/Audio/Streaming/159.ogg",
+      "size": 37868
+    },
+    {
+      "path": "Content/Audio/Streaming/16.ogg",
+      "size": 1411426
+    },
+    {
+      "path": "Content/Audio/Streaming/160.ogg",
+      "size": 32660
+    },
+    {
+      "path": "Content/Audio/Streaming/161.ogg",
+      "size": 41798
+    },
+    {
+      "path": "Content/Audio/Streaming/162.ogg",
+      "size": 34593
+    },
+    {
+      "path": "Content/Audio/Streaming/163.ogg",
+      "size": 50420
+    },
+    {
+      "path": "Content/Audio/Streaming/164.ogg",
+      "size": 50819
+    },
+    {
+      "path": "Content/Audio/Streaming/165.ogg",
+      "size": 38959
+    },
+    {
+      "path": "Content/Audio/Streaming/166.ogg",
+      "size": 50134
+    },
+    {
+      "path": "Content/Audio/Streaming/167.ogg",
+      "size": 58966
+    },
+    {
+      "path": "Content/Audio/Streaming/168.ogg",
+      "size": 45513
+    },
+    {
+      "path": "Content/Audio/Streaming/169.ogg",
+      "size": 47801
+    },
+    {
+      "path": "Content/Audio/Streaming/17.ogg",
+      "size": 1071169
+    },
+    {
+      "path": "Content/Audio/Streaming/170.ogg",
+      "size": 42101
+    },
+    {
+      "path": "Content/Audio/Streaming/171.ogg",
+      "size": 37191
+    },
+    {
+      "path": "Content/Audio/Streaming/172.ogg",
+      "size": 39283
+    },
+    {
+      "path": "Content/Audio/Streaming/173.ogg",
+      "size": 44809
+    },
+    {
+      "path": "Content/Audio/Streaming/174.ogg",
+      "size": 44086
+    },
+    {
+      "path": "Content/Audio/Streaming/175.ogg",
+      "size": 30905
+    },
+    {
+      "path": "Content/Audio/Streaming/176.ogg",
+      "size": 43003
+    },
+    {
+      "path": "Content/Audio/Streaming/177.ogg",
+      "size": 28579
+    },
+    {
+      "path": "Content/Audio/Streaming/178.ogg",
+      "size": 38713
+    },
+    {
+      "path": "Content/Audio/Streaming/179.ogg",
+      "size": 42258
+    },
+    {
+      "path": "Content/Audio/Streaming/18.ogg",
+      "size": 1007826
+    },
+    {
+      "path": "Content/Audio/Streaming/180.ogg",
+      "size": 41830
+    },
+    {
+      "path": "Content/Audio/Streaming/181.ogg",
+      "size": 34299
+    },
+    {
+      "path": "Content/Audio/Streaming/182.ogg",
+      "size": 30830
+    },
+    {
+      "path": "Content/Audio/Streaming/183.ogg",
+      "size": 47649
+    },
+    {
+      "path": "Content/Audio/Streaming/184.ogg",
+      "size": 52900
+    },
+    {
+      "path": "Content/Audio/Streaming/185.ogg",
+      "size": 44728
+    },
+    {
+      "path": "Content/Audio/Streaming/186.ogg",
+      "size": 40661
+    },
+    {
+      "path": "Content/Audio/Streaming/187.ogg",
+      "size": 52332
+    },
+    {
+      "path": "Content/Audio/Streaming/188.ogg",
+      "size": 44761
+    },
+    {
+      "path": "Content/Audio/Streaming/189.ogg",
+      "size": 41932
+    },
+    {
+      "path": "Content/Audio/Streaming/19.ogg",
+      "size": 1219455
+    },
+    {
+      "path": "Content/Audio/Streaming/190.ogg",
+      "size": 41573
+    },
+    {
+      "path": "Content/Audio/Streaming/191.ogg",
+      "size": 44552
+    },
+    {
+      "path": "Content/Audio/Streaming/192.ogg",
+      "size": 41923
+    },
+    {
+      "path": "Content/Audio/Streaming/193.ogg",
+      "size": 28740
+    },
+    {
+      "path": "Content/Audio/Streaming/194.ogg",
+      "size": 45863
+    },
+    {
+      "path": "Content/Audio/Streaming/195.ogg",
+      "size": 46773
+    },
+    {
+      "path": "Content/Audio/Streaming/196.ogg",
+      "size": 41553
+    },
+    {
+      "path": "Content/Audio/Streaming/197.ogg",
+      "size": 34901
+    },
+    {
+      "path": "Content/Audio/Streaming/198.ogg",
+      "size": 38295
+    },
+    {
+      "path": "Content/Audio/Streaming/199.ogg",
+      "size": 67332
+    },
+    {
+      "path": "Content/Audio/Streaming/2.ogg",
+      "size": 381625
+    },
+    {
+      "path": "Content/Audio/Streaming/20.ogg",
+      "size": 1196225
+    },
+    {
+      "path": "Content/Audio/Streaming/200.ogg",
+      "size": 57375
+    },
+    {
+      "path": "Content/Audio/Streaming/201.ogg",
+      "size": 49603
+    },
+    {
+      "path": "Content/Audio/Streaming/202.ogg",
+      "size": 53057
+    },
+    {
+      "path": "Content/Audio/Streaming/203.ogg",
+      "size": 34796
+    },
+    {
+      "path": "Content/Audio/Streaming/204.ogg",
+      "size": 39942
+    },
+    {
+      "path": "Content/Audio/Streaming/205.ogg",
+      "size": 34255
+    },
+    {
+      "path": "Content/Audio/Streaming/206.ogg",
+      "size": 43529
+    },
+    {
+      "path": "Content/Audio/Streaming/207.ogg",
+      "size": 41323
+    },
+    {
+      "path": "Content/Audio/Streaming/208.ogg",
+      "size": 60214
+    },
+    {
+      "path": "Content/Audio/Streaming/209.ogg",
+      "size": 35791
+    },
+    {
+      "path": "Content/Audio/Streaming/21.ogg",
+      "size": 2490907
+    },
+    {
+      "path": "Content/Audio/Streaming/210.ogg",
+      "size": 30280
+    },
+    {
+      "path": "Content/Audio/Streaming/211.ogg",
+      "size": 39225
+    },
+    {
+      "path": "Content/Audio/Streaming/212.ogg",
+      "size": 38429
+    },
+    {
+      "path": "Content/Audio/Streaming/213.ogg",
+      "size": 55079
+    },
+    {
+      "path": "Content/Audio/Streaming/214.ogg",
+      "size": 1502101
+    },
+    {
+      "path": "Content/Audio/Streaming/215.ogg",
+      "size": 44603
+    },
+    {
+      "path": "Content/Audio/Streaming/216.ogg",
+      "size": 45918
+    },
+    {
+      "path": "Content/Audio/Streaming/217.ogg",
+      "size": 57333
+    },
+    {
+      "path": "Content/Audio/Streaming/218.ogg",
+      "size": 46142
+    },
+    {
+      "path": "Content/Audio/Streaming/219.ogg",
+      "size": 39511
+    },
+    {
+      "path": "Content/Audio/Streaming/22.ogg",
+      "size": 135668
+    },
+    {
+      "path": "Content/Audio/Streaming/220.ogg",
+      "size": 40650
+    },
+    {
+      "path": "Content/Audio/Streaming/221.ogg",
+      "size": 40807
+    },
+    {
+      "path": "Content/Audio/Streaming/222.ogg",
+      "size": 40145
+    },
+    {
+      "path": "Content/Audio/Streaming/223.ogg",
+      "size": 44506
+    },
+    {
+      "path": "Content/Audio/Streaming/224.ogg",
+      "size": 57987
+    },
+    {
+      "path": "Content/Audio/Streaming/225.ogg",
+      "size": 42637
+    },
+    {
+      "path": "Content/Audio/Streaming/226.ogg",
+      "size": 46969
+    },
+    {
+      "path": "Content/Audio/Streaming/227.ogg",
+      "size": 69277
+    },
+    {
+      "path": "Content/Audio/Streaming/228.ogg",
+      "size": 46368
+    },
+    {
+      "path": "Content/Audio/Streaming/229.ogg",
+      "size": 48554
+    },
+    {
+      "path": "Content/Audio/Streaming/23.ogg",
+      "size": 620268
+    },
+    {
+      "path": "Content/Audio/Streaming/230.ogg",
+      "size": 47134
+    },
+    {
+      "path": "Content/Audio/Streaming/231.ogg",
+      "size": 45397
+    },
+    {
+      "path": "Content/Audio/Streaming/232.ogg",
+      "size": 42981
+    },
+    {
+      "path": "Content/Audio/Streaming/233.ogg",
+      "size": 46470
+    },
+    {
+      "path": "Content/Audio/Streaming/234.ogg",
+      "size": 50341
+    },
+    {
+      "path": "Content/Audio/Streaming/235.ogg",
+      "size": 51957
+    },
+    {
+      "path": "Content/Audio/Streaming/236.ogg",
+      "size": 51021
+    },
+    {
+      "path": "Content/Audio/Streaming/237.ogg",
+      "size": 47090
+    },
+    {
+      "path": "Content/Audio/Streaming/238.ogg",
+      "size": 52952
+    },
+    {
+      "path": "Content/Audio/Streaming/239.ogg",
+      "size": 49609
+    },
+    {
+      "path": "Content/Audio/Streaming/24.ogg",
+      "size": 318337
+    },
+    {
+      "path": "Content/Audio/Streaming/240.ogg",
+      "size": 48454
+    },
+    {
+      "path": "Content/Audio/Streaming/241.ogg",
+      "size": 34015
+    },
+    {
+      "path": "Content/Audio/Streaming/242.ogg",
+      "size": 49621
+    },
+    {
+      "path": "Content/Audio/Streaming/243.ogg",
+      "size": 40170
+    },
+    {
+      "path": "Content/Audio/Streaming/244.ogg",
+      "size": 49404
+    },
+    {
+      "path": "Content/Audio/Streaming/245.ogg",
+      "size": 34942
+    },
+    {
+      "path": "Content/Audio/Streaming/246.ogg",
+      "size": 43438
+    },
+    {
+      "path": "Content/Audio/Streaming/247.ogg",
+      "size": 44230
+    },
+    {
+      "path": "Content/Audio/Streaming/248.ogg",
+      "size": 40211
+    },
+    {
+      "path": "Content/Audio/Streaming/249.ogg",
+      "size": 49594
+    },
+    {
+      "path": "Content/Audio/Streaming/25.ogg",
+      "size": 55267
+    },
+    {
+      "path": "Content/Audio/Streaming/250.ogg",
+      "size": 44905
+    },
+    {
+      "path": "Content/Audio/Streaming/251.ogg",
+      "size": 53325
+    },
+    {
+      "path": "Content/Audio/Streaming/252.ogg",
+      "size": 49379
+    },
+    {
+      "path": "Content/Audio/Streaming/253.ogg",
+      "size": 49149
+    },
+    {
+      "path": "Content/Audio/Streaming/254.ogg",
+      "size": 69124
+    },
+    {
+      "path": "Content/Audio/Streaming/255.ogg",
+      "size": 45728
+    },
+    {
+      "path": "Content/Audio/Streaming/256.ogg",
+      "size": 54701
+    },
+    {
+      "path": "Content/Audio/Streaming/257.ogg",
+      "size": 44840
+    },
+    {
+      "path": "Content/Audio/Streaming/258.ogg",
+      "size": 53278
+    },
+    {
+      "path": "Content/Audio/Streaming/259.ogg",
+      "size": 55859
+    },
+    {
+      "path": "Content/Audio/Streaming/26.ogg",
+      "size": 47005
+    },
+    {
+      "path": "Content/Audio/Streaming/260.ogg",
+      "size": 43430
+    },
+    {
+      "path": "Content/Audio/Streaming/261.ogg",
+      "size": 44774
+    },
+    {
+      "path": "Content/Audio/Streaming/262.ogg",
+      "size": 50331
+    },
+    {
+      "path": "Content/Audio/Streaming/263.ogg",
+      "size": 42473
+    },
+    {
+      "path": "Content/Audio/Streaming/264.ogg",
+      "size": 64969
+    },
+    {
+      "path": "Content/Audio/Streaming/265.ogg",
+      "size": 50205
+    },
+    {
+      "path": "Content/Audio/Streaming/266.ogg",
+      "size": 42433
+    },
+    {
+      "path": "Content/Audio/Streaming/267.ogg",
+      "size": 61410
+    },
+    {
+      "path": "Content/Audio/Streaming/268.ogg",
+      "size": 51399
+    },
+    {
+      "path": "Content/Audio/Streaming/269.ogg",
+      "size": 51899
+    },
+    {
+      "path": "Content/Audio/Streaming/27.ogg",
+      "size": 37971
+    },
+    {
+      "path": "Content/Audio/Streaming/270.ogg",
+      "size": 51394
+    },
+    {
+      "path": "Content/Audio/Streaming/271.ogg",
+      "size": 56527
+    },
+    {
+      "path": "Content/Audio/Streaming/272.ogg",
+      "size": 52805
+    },
+    {
+      "path": "Content/Audio/Streaming/273.ogg",
+      "size": 46076
+    },
+    {
+      "path": "Content/Audio/Streaming/274.ogg",
+      "size": 49460
+    },
+    {
+      "path": "Content/Audio/Streaming/275.ogg",
+      "size": 57915
+    },
+    {
+      "path": "Content/Audio/Streaming/276.ogg",
+      "size": 57012
+    },
+    {
+      "path": "Content/Audio/Streaming/277.ogg",
+      "size": 55475
+    },
+    {
+      "path": "Content/Audio/Streaming/278.ogg",
+      "size": 49305
+    },
+    {
+      "path": "Content/Audio/Streaming/279.ogg",
+      "size": 47071
+    },
+    {
+      "path": "Content/Audio/Streaming/28.ogg",
+      "size": 21736
+    },
+    {
+      "path": "Content/Audio/Streaming/280.ogg",
+      "size": 49300
+    },
+    {
+      "path": "Content/Audio/Streaming/281.ogg",
+      "size": 47883
+    },
+    {
+      "path": "Content/Audio/Streaming/282.ogg",
+      "size": 47250
+    },
+    {
+      "path": "Content/Audio/Streaming/283.ogg",
+      "size": 52816
+    },
+    {
+      "path": "Content/Audio/Streaming/284.ogg",
+      "size": 59093
+    },
+    {
+      "path": "Content/Audio/Streaming/285.ogg",
+      "size": 53948
+    },
+    {
+      "path": "Content/Audio/Streaming/286.ogg",
+      "size": 55099
+    },
+    {
+      "path": "Content/Audio/Streaming/287.ogg",
+      "size": 48374
+    },
+    {
+      "path": "Content/Audio/Streaming/288.ogg",
+      "size": 57682
+    },
+    {
+      "path": "Content/Audio/Streaming/289.ogg",
+      "size": 50331
+    },
+    {
+      "path": "Content/Audio/Streaming/29.ogg",
+      "size": 20768
+    },
+    {
+      "path": "Content/Audio/Streaming/290.ogg",
+      "size": 51915
+    },
+    {
+      "path": "Content/Audio/Streaming/291.ogg",
+      "size": 40900
+    },
+    {
+      "path": "Content/Audio/Streaming/292.ogg",
+      "size": 44891
+    },
+    {
+      "path": "Content/Audio/Streaming/293.ogg",
+      "size": 59658
+    },
+    {
+      "path": "Content/Audio/Streaming/294.ogg",
+      "size": 64536
+    },
+    {
+      "path": "Content/Audio/Streaming/295.ogg",
+      "size": 53604
+    },
+    {
+      "path": "Content/Audio/Streaming/296.ogg",
+      "size": 55695
+    },
+    {
+      "path": "Content/Audio/Streaming/297.ogg",
+      "size": 57137
+    },
+    {
+      "path": "Content/Audio/Streaming/298.ogg",
+      "size": 60110
+    },
+    {
+      "path": "Content/Audio/Streaming/299.ogg",
+      "size": 64919
+    },
+    {
+      "path": "Content/Audio/Streaming/3.ogg",
+      "size": 927682
+    },
+    {
+      "path": "Content/Audio/Streaming/30.ogg",
+      "size": 41877
+    },
+    {
+      "path": "Content/Audio/Streaming/300.ogg",
+      "size": 61000
+    },
+    {
+      "path": "Content/Audio/Streaming/301.ogg",
+      "size": 57775
+    },
+    {
+      "path": "Content/Audio/Streaming/302.ogg",
+      "size": 59055
+    },
+    {
+      "path": "Content/Audio/Streaming/303.ogg",
+      "size": 63768
+    },
+    {
+      "path": "Content/Audio/Streaming/304.ogg",
+      "size": 64255
+    },
+    {
+      "path": "Content/Audio/Streaming/305.ogg",
+      "size": 68499
+    },
+    {
+      "path": "Content/Audio/Streaming/306.ogg",
+      "size": 54652
+    },
+    {
+      "path": "Content/Audio/Streaming/307.ogg",
+      "size": 66553
+    },
+    {
+      "path": "Content/Audio/Streaming/308.ogg",
+      "size": 58736
+    },
+    {
+      "path": "Content/Audio/Streaming/309.ogg",
+      "size": 48345
+    },
+    {
+      "path": "Content/Audio/Streaming/31.ogg",
+      "size": 18137
+    },
+    {
+      "path": "Content/Audio/Streaming/310.ogg",
+      "size": 66581
+    },
+    {
+      "path": "Content/Audio/Streaming/311.ogg",
+      "size": 61217
+    },
+    {
+      "path": "Content/Audio/Streaming/312.ogg",
+      "size": 62065
+    },
+    {
+      "path": "Content/Audio/Streaming/313.ogg",
+      "size": 1040057
+    },
+    {
+      "path": "Content/Audio/Streaming/314.ogg",
+      "size": 2987126
+    },
+    {
+      "path": "Content/Audio/Streaming/315.ogg",
+      "size": 1419527
+    },
+    {
+      "path": "Content/Audio/Streaming/316.ogg",
+      "size": 53157
+    },
+    {
+      "path": "Content/Audio/Streaming/317.ogg",
+      "size": 43424
+    },
+    {
+      "path": "Content/Audio/Streaming/32.ogg",
+      "size": 45565
+    },
+    {
+      "path": "Content/Audio/Streaming/33.ogg",
+      "size": 54568
+    },
+    {
+      "path": "Content/Audio/Streaming/34.ogg",
+      "size": 37761
+    },
+    {
+      "path": "Content/Audio/Streaming/35.ogg",
+      "size": 42336
+    },
+    {
+      "path": "Content/Audio/Streaming/36.ogg",
+      "size": 39003
+    },
+    {
+      "path": "Content/Audio/Streaming/37.ogg",
+      "size": 45558
+    },
+    {
+      "path": "Content/Audio/Streaming/38.ogg",
+      "size": 54077
+    },
+    {
+      "path": "Content/Audio/Streaming/39.ogg",
+      "size": 48449
+    },
+    {
+      "path": "Content/Audio/Streaming/4.ogg",
+      "size": 3675994
+    },
+    {
+      "path": "Content/Audio/Streaming/40.ogg",
+      "size": 41947
+    },
+    {
+      "path": "Content/Audio/Streaming/41.ogg",
+      "size": 42776
+    },
+    {
+      "path": "Content/Audio/Streaming/42.ogg",
+      "size": 50821
+    },
+    {
+      "path": "Content/Audio/Streaming/43.ogg",
+      "size": 54355
+    },
+    {
+      "path": "Content/Audio/Streaming/44.ogg",
+      "size": 46923
+    },
+    {
+      "path": "Content/Audio/Streaming/45.ogg",
+      "size": 47865
+    },
+    {
+      "path": "Content/Audio/Streaming/46.ogg",
+      "size": 52401
+    },
+    {
+      "path": "Content/Audio/Streaming/47.ogg",
+      "size": 33699
+    },
+    {
+      "path": "Content/Audio/Streaming/48.ogg",
+      "size": 49849
+    },
+    {
+      "path": "Content/Audio/Streaming/49.ogg",
+      "size": 55918
+    },
+    {
+      "path": "Content/Audio/Streaming/5.ogg",
+      "size": 1766755
+    },
+    {
+      "path": "Content/Audio/Streaming/50.ogg",
+      "size": 48015
+    },
+    {
+      "path": "Content/Audio/Streaming/51.ogg",
+      "size": 49916
+    },
+    {
+      "path": "Content/Audio/Streaming/52.ogg",
+      "size": 69439
+    },
+    {
+      "path": "Content/Audio/Streaming/53.ogg",
+      "size": 130660
+    },
+    {
+      "path": "Content/Audio/Streaming/54.ogg",
+      "size": 104505
+    },
+    {
+      "path": "Content/Audio/Streaming/55.ogg",
+      "size": 18512
+    },
+    {
+      "path": "Content/Audio/Streaming/56.ogg",
+      "size": 17795
+    },
+    {
+      "path": "Content/Audio/Streaming/57.ogg",
+      "size": 4998556
+    },
+    {
+      "path": "Content/Audio/Streaming/58.ogg",
+      "size": 3973222
+    },
+    {
+      "path": "Content/Audio/Streaming/59.ogg",
+      "size": 3524159
+    },
+    {
+      "path": "Content/Audio/Streaming/6.ogg",
+      "size": 3297033
+    },
+    {
+      "path": "Content/Audio/Streaming/60.ogg",
+      "size": 3246096
+    },
+    {
+      "path": "Content/Audio/Streaming/61.ogg",
+      "size": 59932
+    },
+    {
+      "path": "Content/Audio/Streaming/62.ogg",
+      "size": 63371
+    },
+    {
+      "path": "Content/Audio/Streaming/63.ogg",
+      "size": 46312
+    },
+    {
+      "path": "Content/Audio/Streaming/64.ogg",
+      "size": 60481
+    },
+    {
+      "path": "Content/Audio/Streaming/65.ogg",
+      "size": 52924
+    },
+    {
+      "path": "Content/Audio/Streaming/66.ogg",
+      "size": 1746937
+    },
+    {
+      "path": "Content/Audio/Streaming/67.ogg",
+      "size": 35485
+    },
+    {
+      "path": "Content/Audio/Streaming/68.ogg",
+      "size": 51009
+    },
+    {
+      "path": "Content/Audio/Streaming/69.ogg",
+      "size": 38165
+    },
+    {
+      "path": "Content/Audio/Streaming/7.ogg",
+      "size": 104813
+    },
+    {
+      "path": "Content/Audio/Streaming/70.ogg",
+      "size": 32541
+    },
+    {
+      "path": "Content/Audio/Streaming/71.ogg",
+      "size": 51471
+    },
+    {
+      "path": "Content/Audio/Streaming/72.ogg",
+      "size": 52207
+    },
+    {
+      "path": "Content/Audio/Streaming/73.ogg",
+      "size": 57795
+    },
+    {
+      "path": "Content/Audio/Streaming/74.ogg",
+      "size": 27771
+    },
+    {
+      "path": "Content/Audio/Streaming/75.ogg",
+      "size": 78427
+    },
+    {
+      "path": "Content/Audio/Streaming/76.ogg",
+      "size": 30037
+    },
+    {
+      "path": "Content/Audio/Streaming/77.ogg",
+      "size": 41613
+    },
+    {
+      "path": "Content/Audio/Streaming/78.ogg",
+      "size": 74124
+    },
+    {
+      "path": "Content/Audio/Streaming/79.ogg",
+      "size": 70274
+    },
+    {
+      "path": "Content/Audio/Streaming/8.ogg",
+      "size": 3837877
+    },
+    {
+      "path": "Content/Audio/Streaming/80.ogg",
+      "size": 56841
+    },
+    {
+      "path": "Content/Audio/Streaming/81.ogg",
+      "size": 27201
+    },
+    {
+      "path": "Content/Audio/Streaming/82.ogg",
+      "size": 29697
+    },
+    {
+      "path": "Content/Audio/Streaming/83.ogg",
+      "size": 41638
+    },
+    {
+      "path": "Content/Audio/Streaming/84.ogg",
+      "size": 65313
+    },
+    {
+      "path": "Content/Audio/Streaming/85.ogg",
+      "size": 60742
+    },
+    {
+      "path": "Content/Audio/Streaming/86.ogg",
+      "size": 60511
+    },
+    {
+      "path": "Content/Audio/Streaming/87.ogg",
+      "size": 92815
+    },
+    {
+      "path": "Content/Audio/Streaming/88.ogg",
+      "size": 54428
+    },
+    {
+      "path": "Content/Audio/Streaming/89.ogg",
+      "size": 63274
+    },
+    {
+      "path": "Content/Audio/Streaming/9.ogg",
+      "size": 2348615
+    },
+    {
+      "path": "Content/Audio/Streaming/90.ogg",
+      "size": 60218
+    },
+    {
+      "path": "Content/Audio/Streaming/91.ogg",
+      "size": 49112
+    },
+    {
+      "path": "Content/Audio/Streaming/92.ogg",
+      "size": 53724
+    },
+    {
+      "path": "Content/Audio/Streaming/93.ogg",
+      "size": 51273
+    },
+    {
+      "path": "Content/Audio/Streaming/94.ogg",
+      "size": 35415
+    },
+    {
+      "path": "Content/Audio/Streaming/95.ogg",
+      "size": 47631
+    },
+    {
+      "path": "Content/Audio/Streaming/96.ogg",
+      "size": 45633
+    },
+    {
+      "path": "Content/Audio/Streaming/97.ogg",
+      "size": 49492
+    },
+    {
+      "path": "Content/Audio/Streaming/98.ogg",
+      "size": 40259
+    },
+    {
+      "path": "Content/Audio/Streaming/99.ogg",
+      "size": 57050
+    },
+    {
+      "path": "Content/Audio/StreamingWaveBank.xwb",
+      "size": 2552
+    },
+    {
+      "path": "Content/Audio/Survivor01WaveBank.xwb",
+      "size": 1264090
+    },
+    {
+      "path": "Content/Audio/Survivor02WaveBank.xwb",
+      "size": 644812
+    },
+    {
+      "path": "Content/Audio/Voyage01WaveBank.xwb",
+      "size": 1798668
+    },
+    {
+      "path": "Content/Backgrounds.pkg",
+      "size": 15499229
+    },
+    {
+      "path": "Content/BigSupport.pkg",
+      "size": 15023199
+    },
+    {
+      "path": "Content/Bull.pkg",
+      "size": 1561939
+    },
+    {
+      "path": "Content/Cannon.pkg",
+      "size": 3443887
+    },
+    {
+      "path": "Content/Challenge01.pkg",
+      "size": 3687465
+    },
+    {
+      "path": "Content/Challenge02.pkg",
+      "size": 8319676
+    },
+    {
+      "path": "Content/Challenge03.pkg",
+      "size": 6640301
+    },
+    {
+      "path": "Content/Challenge04.pkg",
+      "size": 7031892
+    },
+    {
+      "path": "Content/Challenge05.pkg",
+      "size": 7915010
+    },
+    {
+      "path": "Content/Challenge06.pkg",
+      "size": 3746801
+    },
+    {
+      "path": "Content/Challenge07.pkg",
+      "size": 7435113
+    },
+    {
+      "path": "Content/Challenge08.pkg",
+      "size": 8873905
+    },
+    {
+      "path": "Content/Challenge09.pkg",
+      "size": 6871510
+    },
+    {
+      "path": "Content/Challenge10.pkg",
+      "size": 5925050
+    },
+    {
+      "path": "Content/Challenge11.pkg",
+      "size": 4700806
+    },
+    {
+      "path": "Content/Challenge12.pkg",
+      "size": 5372134
+    },
+    {
+      "path": "Content/Crossroads01.pkg",
+      "size": 17437633
+    },
+    {
+      "path": "Content/Crossroads02.pkg",
+      "size": 7768153
+    },
+    {
+      "path": "Content/Deepspawn.pkg",
+      "size": 653586
+    },
+    {
+      "path": "Content/Dev.pkg",
+      "size": 1453095
+    },
+    {
+      "path": "Content/ESRB.pkg",
+      "size": 46801
+    },
+    {
+      "path": "Content/Effects/BloomCombine.xnb",
+      "size": 604
+    },
+    {
+      "path": "Content/Effects/BloomExtract.xnb",
+      "size": 512
+    },
+    {
+      "path": "Content/Effects/Clouds.xnb",
+      "size": 622
+    },
+    {
+      "path": "Content/Effects/ColorLerp.xnb",
+      "size": 370
+    },
+    {
+      "path": "Content/Effects/Contrast.xnb",
+      "size": 446
+    },
+    {
+      "path": "Content/Effects/Desaturate.xnb",
+      "size": 406
+    },
+    {
+      "path": "Content/Effects/Disappear.xnb",
+      "size": 532
+    },
+    {
+      "path": "Content/Effects/GaussianBlur.xnb",
+      "size": 614
+    },
+    {
+      "path": "Content/Effects/JaggedEdge.xnb",
+      "size": 318
+    },
+    {
+      "path": "Content/Effects/Light.xnb",
+      "size": 394
+    },
+    {
+      "path": "Content/Effects/LightSource.xnb",
+      "size": 476
+    },
+    {
+      "path": "Content/Effects/MultiplyAndLerp.xnb",
+      "size": 432
+    },
+    {
+      "path": "Content/Effects/MultiplyAndSaturate.xnb",
+      "size": 416
+    },
+    {
+      "path": "Content/Effects/Outline.xnb",
+      "size": 486
+    },
+    {
+      "path": "Content/Effects/PaintSaturate.xnb",
+      "size": 584
+    },
+    {
+      "path": "Content/Effects/Refract.xnb",
+      "size": 552
+    },
+    {
+      "path": "Content/Effects/Saturate.xnb",
+      "size": 396
+    },
+    {
+      "path": "Content/Effects/SceneFade.xnb",
+      "size": 552
+    },
+    {
+      "path": "Content/Effects/Shroud.xnb",
+      "size": 588
+    },
+    {
+      "path": "Content/Effects/Terrain.xnb",
+      "size": 910
+    },
+    {
+      "path": "Content/Effects/TerrainReveal.xnb",
+      "size": 552
+    },
+    {
+      "path": "Content/Effects/TerrainTileReveal.xnb",
+      "size": 568
+    },
+    {
+      "path": "Content/Effects/ddGodRays.xnb",
+      "size": 1358
+    },
+    {
+      "path": "Content/Effects/normalmap.xnb",
+      "size": 570
+    },
+    {
+      "path": "Content/End01.pkg",
+      "size": 5618838
+    },
+    {
+      "path": "Content/Falling01.pkg",
+      "size": 9049019
+    },
+    {
+      "path": "Content/FinalArena01.pkg",
+      "size": 12406489
+    },
+    {
+      "path": "Content/FinalChase01.pkg",
+      "size": 14200322
+    },
+    {
+      "path": "Content/FinalRam01.pkg",
+      "size": 14541098
+    },
+    {
+      "path": "Content/FinalZulf01.pkg",
+      "size": 24388300
+    },
+    {
+      "path": "Content/Firefly.pkg",
+      "size": 402427
+    },
+    {
+      "path": "Content/Flamethrower.pkg",
+      "size": 1053277
+    },
+    {
+      "path": "Content/Flamethrower_Nova.pkg",
+      "size": 189448
+    },
+    {
+      "path": "Content/FlyingSwarmer.pkg",
+      "size": 9692953
+    },
+    {
+      "path": "Content/Fonts/GameConsole.xnb",
+      "size": 13283
+    },
+    {
+      "path": "Content/Fonts/all/CreditValley22.xnb",
+      "size": 582416
+    },
+    {
+      "path": "Content/Fonts/all/CreditValleyBold22.xnb",
+      "size": 582416
+    },
+    {
+      "path": "Content/Fonts/all/CreditValleyBold26.xnb",
+      "size": 1106704
+    },
+    {
+      "path": "Content/Fonts/all/CreditValleyBold28.xnb",
+      "size": 1106704
+    },
+    {
+      "path": "Content/Fonts/all/CreditValleyBold30.xnb",
+      "size": 1106704
+    },
+    {
+      "path": "Content/Fonts/all/CreditValleyBold36.xnb",
+      "size": 2155280
+    },
+    {
+      "path": "Content/Fonts/all/CreditValleyBold40.xnb",
+      "size": 2155280
+    },
+    {
+      "path": "Content/Fonts/all/CreditValleyBold48.xnb",
+      "size": 2155280
+    },
+    {
+      "path": "Content/Fonts/all/CreditValleyBold56.xnb",
+      "size": 4252432
+    },
+    {
+      "path": "Content/Fonts/all/CreditValleyBoldItalic28.xnb",
+      "size": 1106704
+    },
+    {
+      "path": "Content/Fonts/all/CreditValleyBoldSpaced16.xnb",
+      "size": 582416
+    },
+    {
+      "path": "Content/Fonts/all/CreditValleyBoldSpaced22.xnb",
+      "size": 582416
+    },
+    {
+      "path": "Content/Fonts/all/CreditValleyItalics48.xnb",
+      "size": 4252432
+    },
+    {
+      "path": "Content/Fonts/all/CreditValleySpaced22.xnb",
+      "size": 582416
+    },
+    {
+      "path": "Content/Fonts/all/MonospaceTypewriterBold14.xnb",
+      "size": 320272
+    },
+    {
+      "path": "Content/Fonts/all/MonospaceTypewriterBold30.xnb",
+      "size": 1106704
+    },
+    {
+      "path": "Content/Fonts/de/CreditValley22.xnb",
+      "size": 38736
+    },
+    {
+      "path": "Content/Fonts/de/CreditValleyBold22.xnb",
+      "size": 71504
+    },
+    {
+      "path": "Content/Fonts/de/CreditValleyBold26.xnb",
+      "size": 71504
+    },
+    {
+      "path": "Content/Fonts/de/CreditValleyBold28.xnb",
+      "size": 71504
+    },
+    {
+      "path": "Content/Fonts/de/CreditValleyBold30.xnb",
+      "size": 71504
+    },
+    {
+      "path": "Content/Fonts/de/CreditValleyBold36.xnb",
+      "size": 137130
+    },
+    {
+      "path": "Content/Fonts/de/CreditValleyBold40.xnb",
+      "size": 137040
+    },
+    {
+      "path": "Content/Fonts/de/CreditValleyBold48.xnb",
+      "size": 268112
+    },
+    {
+      "path": "Content/Fonts/de/CreditValleyBold56.xnb",
+      "size": 268112
+    },
+    {
+      "path": "Content/Fonts/de/CreditValleyBoldItalic28.xnb",
+      "size": 71504
+    },
+    {
+      "path": "Content/Fonts/de/CreditValleyBoldSpaced16.xnb",
+      "size": 38736
+    },
+    {
+      "path": "Content/Fonts/de/CreditValleyBoldSpaced22.xnb",
+      "size": 71504
+    },
+    {
+      "path": "Content/Fonts/de/CreditValleyItalics48.xnb",
+      "size": 268112
+    },
+    {
+      "path": "Content/Fonts/de/CreditValleySpaced22.xnb",
+      "size": 38736
+    },
+    {
+      "path": "Content/Fonts/de/MonospaceTypewriterBold14.xnb",
+      "size": 38736
+    },
+    {
+      "path": "Content/Fonts/de/MonospaceTypewriterBold30.xnb",
+      "size": 137040
+    },
+    {
+      "path": "Content/Fonts/en/CreditValley22.xnb",
+      "size": 38549
+    },
+    {
+      "path": "Content/Fonts/en/CreditValleyBold22.xnb",
+      "size": 71317
+    },
+    {
+      "path": "Content/Fonts/en/CreditValleyBold26.xnb",
+      "size": 71317
+    },
+    {
+      "path": "Content/Fonts/en/CreditValleyBold28.xnb",
+      "size": 71317
+    },
+    {
+      "path": "Content/Fonts/en/CreditValleyBold30.xnb",
+      "size": 71317
+    },
+    {
+      "path": "Content/Fonts/en/CreditValleyBold36.xnb",
+      "size": 136853
+    },
+    {
+      "path": "Content/Fonts/en/CreditValleyBold40.xnb",
+      "size": 136853
+    },
+    {
+      "path": "Content/Fonts/en/CreditValleyBold48.xnb",
+      "size": 267925
+    },
+    {
+      "path": "Content/Fonts/en/CreditValleyBold56.xnb",
+      "size": 267925
+    },
+    {
+      "path": "Content/Fonts/en/CreditValleyBoldItalic28.xnb",
+      "size": 70627
+    },
+    {
+      "path": "Content/Fonts/en/CreditValleyBoldSpaced16.xnb",
+      "size": 38549
+    },
+    {
+      "path": "Content/Fonts/en/CreditValleyBoldSpaced22.xnb",
+      "size": 71317
+    },
+    {
+      "path": "Content/Fonts/en/CreditValleyItalics48.xnb",
+      "size": 267235
+    },
+    {
+      "path": "Content/Fonts/en/CreditValleySpaced22.xnb",
+      "size": 38549
+    },
+    {
+      "path": "Content/Fonts/en/MonospaceTypewriterBold14.xnb",
+      "size": 38549
+    },
+    {
+      "path": "Content/Fonts/en/MonospaceTypewriterBold30.xnb",
+      "size": 136853
+    },
+    {
+      "path": "Content/Fonts/es/CreditValley22.xnb",
+      "size": 38920
+    },
+    {
+      "path": "Content/Fonts/es/CreditValleyBold22.xnb",
+      "size": 71688
+    },
+    {
+      "path": "Content/Fonts/es/CreditValleyBold26.xnb",
+      "size": 71688
+    },
+    {
+      "path": "Content/Fonts/es/CreditValleyBold28.xnb",
+      "size": 71688
+    },
+    {
+      "path": "Content/Fonts/es/CreditValleyBold30.xnb",
+      "size": 137224
+    },
+    {
+      "path": "Content/Fonts/es/CreditValleyBold36.xnb",
+      "size": 137498
+    },
+    {
+      "path": "Content/Fonts/es/CreditValleyBold40.xnb",
+      "size": 137224
+    },
+    {
+      "path": "Content/Fonts/es/CreditValleyBold48.xnb",
+      "size": 268296
+    },
+    {
+      "path": "Content/Fonts/es/CreditValleyBold56.xnb",
+      "size": 268296
+    },
+    {
+      "path": "Content/Fonts/es/CreditValleyBoldItalic28.xnb",
+      "size": 71688
+    },
+    {
+      "path": "Content/Fonts/es/CreditValleyBoldSpaced16.xnb",
+      "size": 38920
+    },
+    {
+      "path": "Content/Fonts/es/CreditValleyBoldSpaced22.xnb",
+      "size": 71688
+    },
+    {
+      "path": "Content/Fonts/es/CreditValleyItalics48.xnb",
+      "size": 268296
+    },
+    {
+      "path": "Content/Fonts/es/CreditValleySpaced22.xnb",
+      "size": 38920
+    },
+    {
+      "path": "Content/Fonts/es/MonospaceTypewriterBold14.xnb",
+      "size": 38920
+    },
+    {
+      "path": "Content/Fonts/es/MonospaceTypewriterBold30.xnb",
+      "size": 137224
+    },
+    {
+      "path": "Content/Fonts/fr/CreditValley22.xnb",
+      "size": 72147
+    },
+    {
+      "path": "Content/Fonts/fr/CreditValleyBold22.xnb",
+      "size": 72147
+    },
+    {
+      "path": "Content/Fonts/fr/CreditValleyBold26.xnb",
+      "size": 72147
+    },
+    {
+      "path": "Content/Fonts/fr/CreditValleyBold28.xnb",
+      "size": 72147
+    },
+    {
+      "path": "Content/Fonts/fr/CreditValleyBold30.xnb",
+      "size": 137683
+    },
+    {
+      "path": "Content/Fonts/fr/CreditValleyBold36.xnb",
+      "size": 137819
+    },
+    {
+      "path": "Content/Fonts/fr/CreditValleyBold40.xnb",
+      "size": 137683
+    },
+    {
+      "path": "Content/Fonts/fr/CreditValleyBold48.xnb",
+      "size": 268755
+    },
+    {
+      "path": "Content/Fonts/fr/CreditValleyBold56.xnb",
+      "size": 268755
+    },
+    {
+      "path": "Content/Fonts/fr/CreditValleyBoldItalic28.xnb",
+      "size": 137683
+    },
+    {
+      "path": "Content/Fonts/fr/CreditValleyBoldSpaced16.xnb",
+      "size": 39379
+    },
+    {
+      "path": "Content/Fonts/fr/CreditValleyBoldSpaced22.xnb",
+      "size": 72147
+    },
+    {
+      "path": "Content/Fonts/fr/CreditValleyItalics48.xnb",
+      "size": 268755
+    },
+    {
+      "path": "Content/Fonts/fr/CreditValleySpaced22.xnb",
+      "size": 72147
+    },
+    {
+      "path": "Content/Fonts/fr/MonospaceTypewriterBold14.xnb",
+      "size": 39379
+    },
+    {
+      "path": "Content/Fonts/fr/MonospaceTypewriterBold30.xnb",
+      "size": 137683
+    },
+    {
+      "path": "Content/Fonts/it/CreditValley22.xnb",
+      "size": 71781
+    },
+    {
+      "path": "Content/Fonts/it/CreditValleyBold22.xnb",
+      "size": 71781
+    },
+    {
+      "path": "Content/Fonts/it/CreditValleyBold26.xnb",
+      "size": 71781
+    },
+    {
+      "path": "Content/Fonts/it/CreditValleyBold28.xnb",
+      "size": 71781
+    },
+    {
+      "path": "Content/Fonts/it/CreditValleyBold30.xnb",
+      "size": 137317
+    },
+    {
+      "path": "Content/Fonts/it/CreditValleyBold36.xnb",
+      "size": 137407
+    },
+    {
+      "path": "Content/Fonts/it/CreditValleyBold40.xnb",
+      "size": 137317
+    },
+    {
+      "path": "Content/Fonts/it/CreditValleyBold48.xnb",
+      "size": 268389
+    },
+    {
+      "path": "Content/Fonts/it/CreditValleyBold56.xnb",
+      "size": 268389
+    },
+    {
+      "path": "Content/Fonts/it/CreditValleyBoldItalic28.xnb",
+      "size": 71781
+    },
+    {
+      "path": "Content/Fonts/it/CreditValleyBoldSpaced16.xnb",
+      "size": 39013
+    },
+    {
+      "path": "Content/Fonts/it/CreditValleyBoldSpaced22.xnb",
+      "size": 71781
+    },
+    {
+      "path": "Content/Fonts/it/CreditValleyItalics48.xnb",
+      "size": 268389
+    },
+    {
+      "path": "Content/Fonts/it/CreditValleySpaced22.xnb",
+      "size": 71781
+    },
+    {
+      "path": "Content/Fonts/it/MonospaceTypewriterBold14.xnb",
+      "size": 39013
+    },
+    {
+      "path": "Content/Fonts/it/MonospaceTypewriterBold30.xnb",
+      "size": 137317
+    },
+    {
+      "path": "Content/Fonts/zh/CreditValley22.xnb",
+      "size": 475708
+    },
+    {
+      "path": "Content/Fonts/zh/CreditValleyBold22.xnb",
+      "size": 441562
+    },
+    {
+      "path": "Content/Fonts/zh/CreditValleyBold26.xnb",
+      "size": 541794
+    },
+    {
+      "path": "Content/Fonts/zh/CreditValleyBold28.xnb",
+      "size": 577046
+    },
+    {
+      "path": "Content/Fonts/zh/CreditValleyBold30.xnb",
+      "size": 626298
+    },
+    {
+      "path": "Content/Fonts/zh/CreditValleyBold36.xnb",
+      "size": 745962
+    },
+    {
+      "path": "Content/Fonts/zh/CreditValleyBold40.xnb",
+      "size": 725632
+    },
+    {
+      "path": "Content/Fonts/zh/CreditValleyBold48.xnb",
+      "size": 905088
+    },
+    {
+      "path": "Content/Fonts/zh/CreditValleyBold56.xnb",
+      "size": 1086100
+    },
+    {
+      "path": "Content/Fonts/zh/CreditValleyBoldItalic28.xnb",
+      "size": 597612
+    },
+    {
+      "path": "Content/Fonts/zh/CreditValleyBoldSpaced16.xnb",
+      "size": 301690
+    },
+    {
+      "path": "Content/Fonts/zh/CreditValleyBoldSpaced22.xnb",
+      "size": 441562
+    },
+    {
+      "path": "Content/Fonts/zh/CreditValleyItalics48.xnb",
+      "size": 1121570
+    },
+    {
+      "path": "Content/Fonts/zh/CreditValleySpaced22.xnb",
+      "size": 475708
+    },
+    {
+      "path": "Content/Fonts/zh/MonospaceTypewriterBold14.xnb",
+      "size": 5998
+    },
+    {
+      "path": "Content/Fonts/zh/MonospaceTypewriterBold30.xnb",
+      "size": 11030
+    },
+    {
+      "path": "Content/Fortress01.pkg",
+      "size": 13162558
+    },
+    {
+      "path": "Content/Frog.pkg",
+      "size": 7664769
+    },
+    {
+      "path": "Content/Fx.pkg",
+      "size": 4173306
+    },
+    {
+      "path": "Content/GUI.pkg",
+      "size": 11244364
+    },
+    {
+      "path": "Content/Game/Animations/Animations.xml",
+      "size": 26275
+    },
+    {
+      "path": "Content/Game/Animations/EnemyAnimations.xml",
+      "size": 113211
+    },
+    {
+      "path": "Content/Game/Animations/FxAnimations.xml",
+      "size": 83021
+    },
+    {
+      "path": "Content/Game/Animations/GeneratorAnimations.xml",
+      "size": 24979
+    },
+    {
+      "path": "Content/Game/Animations/LaunchAnimations.xml",
+      "size": 716
+    },
+    {
+      "path": "Content/Game/Animations/ObstacleAnimations.xml",
+      "size": 32756
+    },
+    {
+      "path": "Content/Game/Animations/PlayerAnimations.xml",
+      "size": 158488
+    },
+    {
+      "path": "Content/Game/Conversations.xml",
+      "size": 16893
+    },
+    {
+      "path": "Content/Game/FlyerSettings.xml",
+      "size": 110549
+    },
+    {
+      "path": "Content/Game/Generators.xml",
+      "size": 20709
+    },
+    {
+      "path": "Content/Game/Leaderboards.xml",
+      "size": 1885
+    },
+    {
+      "path": "Content/Game/Loot.xml",
+      "size": 31224
+    },
+    {
+      "path": "Content/Game/Loot/EnemyLoot.xml",
+      "size": 18257
+    },
+    {
+      "path": "Content/Game/Loot/MiscLoot.xml",
+      "size": 5780
+    },
+    {
+      "path": "Content/Game/Loot/MoneyLoot.xml",
+      "size": 1915
+    },
+    {
+      "path": "Content/Game/Loot/Souvenirs.xml",
+      "size": 5243
+    },
+    {
+      "path": "Content/Game/Loot/StructureSeeds.xml",
+      "size": 1265
+    },
+    {
+      "path": "Content/Game/Loot/UpgradeLoot.xml",
+      "size": 1841
+    },
+    {
+      "path": "Content/Game/Loot/WeaponKits.xml",
+      "size": 12387
+    },
+    {
+      "path": "Content/Game/Loot/WeaponSeeds.xml",
+      "size": 8917
+    },
+    {
+      "path": "Content/Game/MapLayouts.xml",
+      "size": 10528
+    },
+    {
+      "path": "Content/Game/Obstacles/1_DevObstacles.xml",
+      "size": 8769
+    },
+    {
+      "path": "Content/Game/Obstacles/CityIndoorObstacles.xml",
+      "size": 6000
+    },
+    {
+      "path": "Content/Game/Obstacles/CityObstacles.xml",
+      "size": 42928
+    },
+    {
+      "path": "Content/Game/Obstacles/Decals.xml",
+      "size": 1981
+    },
+    {
+      "path": "Content/Game/Obstacles/EdgeObstacles.xml",
+      "size": 10877
+    },
+    {
+      "path": "Content/Game/Obstacles/GladeObstacles.xml",
+      "size": 1139
+    },
+    {
+      "path": "Content/Game/Obstacles/LushObstacles.xml",
+      "size": 6903
+    },
+    {
+      "path": "Content/Game/Obstacles/MiscObstacles.xml",
+      "size": 2277
+    },
+    {
+      "path": "Content/Game/Obstacles/NPCs.xml",
+      "size": 7901
+    },
+    {
+      "path": "Content/Game/Obstacles/Portals.xml",
+      "size": 5160
+    },
+    {
+      "path": "Content/Game/Obstacles/TownObstacles.xml",
+      "size": 1046
+    },
+    {
+      "path": "Content/Game/Obstacles/WildObstacles.xml",
+      "size": 36816
+    },
+    {
+      "path": "Content/Game/PlayerClasses.xml",
+      "size": 3967
+    },
+    {
+      "path": "Content/Game/PlayerUpgrades.xml",
+      "size": 2996
+    },
+    {
+      "path": "Content/Game/Players.xml",
+      "size": 3689
+    },
+    {
+      "path": "Content/Game/Scripts/Attack01.scripts",
+      "size": 23571
+    },
+    {
+      "path": "Content/Game/Scripts/Challenge01.scripts",
+      "size": 14332
+    },
+    {
+      "path": "Content/Game/Scripts/Challenge02.scripts",
+      "size": 14618
+    },
+    {
+      "path": "Content/Game/Scripts/Challenge03.scripts",
+      "size": 12540
+    },
+    {
+      "path": "Content/Game/Scripts/Challenge04.scripts",
+      "size": 11524
+    },
+    {
+      "path": "Content/Game/Scripts/Challenge05.scripts",
+      "size": 13506
+    },
+    {
+      "path": "Content/Game/Scripts/Challenge06.scripts",
+      "size": 12965
+    },
+    {
+      "path": "Content/Game/Scripts/Challenge07.scripts",
+      "size": 11644
+    },
+    {
+      "path": "Content/Game/Scripts/Challenge08.scripts",
+      "size": 12361
+    },
+    {
+      "path": "Content/Game/Scripts/Challenge09.scripts",
+      "size": 12472
+    },
+    {
+      "path": "Content/Game/Scripts/Challenge10.scripts",
+      "size": 15265
+    },
+    {
+      "path": "Content/Game/Scripts/Challenge11.scripts",
+      "size": 12860
+    },
+    {
+      "path": "Content/Game/Scripts/Challenge12.scripts",
+      "size": 13231
+    },
+    {
+      "path": "Content/Game/Scripts/Crossroads01.scripts",
+      "size": 22519
+    },
+    {
+      "path": "Content/Game/Scripts/Crossroads02.scripts",
+      "size": 30910
+    },
+    {
+      "path": "Content/Game/Scripts/End01.scripts",
+      "size": 25977
+    },
+    {
+      "path": "Content/Game/Scripts/Falling01.scripts",
+      "size": 27513
+    },
+    {
+      "path": "Content/Game/Scripts/FinalArena01.scripts",
+      "size": 23853
+    },
+    {
+      "path": "Content/Game/Scripts/FinalChase01.scripts",
+      "size": 16892
+    },
+    {
+      "path": "Content/Game/Scripts/FinalRam01.scripts",
+      "size": 14557
+    },
+    {
+      "path": "Content/Game/Scripts/FinalZulf01.scripts",
+      "size": 40690
+    },
+    {
+      "path": "Content/Game/Scripts/Fortress01.scripts",
+      "size": 17394
+    },
+    {
+      "path": "Content/Game/Scripts/Gauntlet01.scripts",
+      "size": 26354
+    },
+    {
+      "path": "Content/Game/Scripts/Holdout01.scripts",
+      "size": 30296
+    },
+    {
+      "path": "Content/Game/Scripts/Hunt01.scripts",
+      "size": 37539
+    },
+    {
+      "path": "Content/Game/Scripts/Moving01.scripts",
+      "size": 52535
+    },
+    {
+      "path": "Content/Game/Scripts/Onslaught01.scripts",
+      "size": 19984
+    },
+    {
+      "path": "Content/Game/Scripts/Onslaught02.scripts",
+      "size": 16591
+    },
+    {
+      "path": "Content/Game/Scripts/Onslaught03.scripts",
+      "size": 19897
+    },
+    {
+      "path": "Content/Game/Scripts/Onslaught04.scripts",
+      "size": 28006
+    },
+    {
+      "path": "Content/Game/Scripts/Platforms01.scripts",
+      "size": 27133
+    },
+    {
+      "path": "Content/Game/Scripts/ProtoIntro01.scripts",
+      "size": 21237
+    },
+    {
+      "path": "Content/Game/Scripts/ProtoIntro01a.scripts",
+      "size": 19037
+    },
+    {
+      "path": "Content/Game/Scripts/ProtoIntro01b.scripts",
+      "size": 48977
+    },
+    {
+      "path": "Content/Game/Scripts/ProtoTown03.scripts",
+      "size": 251749
+    },
+    {
+      "path": "Content/Game/Scripts/README.txt",
+      "size": 182
+    },
+    {
+      "path": "Content/Game/Scripts/Rescue01.scripts",
+      "size": 31266
+    },
+    {
+      "path": "Content/Game/Scripts/Scenes01.scripts",
+      "size": 24936
+    },
+    {
+      "path": "Content/Game/Scripts/Scenes02.scripts",
+      "size": 18084
+    },
+    {
+      "path": "Content/Game/Scripts/Scorched01.scripts",
+      "size": 19239
+    },
+    {
+      "path": "Content/Game/Scripts/Shrine01.scripts",
+      "size": 17001
+    },
+    {
+      "path": "Content/Game/Scripts/Siege01.scripts",
+      "size": 33743
+    },
+    {
+      "path": "Content/Game/Scripts/Survivor01.scripts",
+      "size": 23620
+    },
+    {
+      "path": "Content/Game/Scripts/Survivor02.scripts",
+      "size": 17132
+    },
+    {
+      "path": "Content/Game/Scripts/Voyage01.scripts",
+      "size": 27998
+    },
+    {
+      "path": "Content/Game/Scripts/finalsounds.txt",
+      "size": 2443
+    },
+    {
+      "path": "Content/Game/Scripts/findResults",
+      "size": 96255
+    },
+    {
+      "path": "Content/Game/Scripts/moresounds.txt",
+      "size": 888
+    },
+    {
+      "path": "Content/Game/Scripts/mroesounds.txt",
+      "size": 1701
+    },
+    {
+      "path": "Content/Game/Scripts/persistentSounds.txt",
+      "size": 436
+    },
+    {
+      "path": "Content/Game/Scripts/playsound.txt",
+      "size": 4336
+    },
+    {
+      "path": "Content/Game/Scripts/playsounduniq.txt",
+      "size": 13715
+    },
+    {
+      "path": "Content/Game/Scripts/sort",
+      "size": 4268
+    },
+    {
+      "path": "Content/Game/TerrainTiles.xml",
+      "size": 66876
+    },
+    {
+      "path": "Content/Game/Text/HelpText.de.xml",
+      "size": 204117
+    },
+    {
+      "path": "Content/Game/Text/HelpText.en.xml",
+      "size": 190152
+    },
+    {
+      "path": "Content/Game/Text/HelpText.es.xml",
+      "size": 203705
+    },
+    {
+      "path": "Content/Game/Text/HelpText.fr.xml",
+      "size": 200928
+    },
+    {
+      "path": "Content/Game/Text/HelpText.it.xml",
+      "size": 205726
+    },
+    {
+      "path": "Content/Game/Text/HelpText.zh.xml",
+      "size": 180403
+    },
+    {
+      "path": "Content/Game/Text/LaunchText.xml",
+      "size": 3709
+    },
+    {
+      "path": "Content/Game/Units/Attackers.xml",
+      "size": 3727
+    },
+    {
+      "path": "Content/Game/Units/BigSupport.xml",
+      "size": 4446
+    },
+    {
+      "path": "Content/Game/Units/Bosses.xml",
+      "size": 2371
+    },
+    {
+      "path": "Content/Game/Units/Bull.xml",
+      "size": 2906
+    },
+    {
+      "path": "Content/Game/Units/Deepspawn.xml",
+      "size": 2425
+    },
+    {
+      "path": "Content/Game/Units/Enemies.xml",
+      "size": 5473
+    },
+    {
+      "path": "Content/Game/Units/Firefly.xml",
+      "size": 4971
+    },
+    {
+      "path": "Content/Game/Units/FlyingSwarmer.xml",
+      "size": 8102
+    },
+    {
+      "path": "Content/Game/Units/Frog.xml",
+      "size": 2455
+    },
+    {
+      "path": "Content/Game/Units/HeavyMelee.xml",
+      "size": 8351
+    },
+    {
+      "path": "Content/Game/Units/Lasso.xml",
+      "size": 4529
+    },
+    {
+      "path": "Content/Game/Units/LightMelee.xml",
+      "size": 10843
+    },
+    {
+      "path": "Content/Game/Units/Mole.xml",
+      "size": 3386
+    },
+    {
+      "path": "Content/Game/Units/Mudgator.xml",
+      "size": 5256
+    },
+    {
+      "path": "Content/Game/Units/Mushrooms.xml",
+      "size": 2575
+    },
+    {
+      "path": "Content/Game/Units/PlayerUnits.xml",
+      "size": 12970
+    },
+    {
+      "path": "Content/Game/Units/Spineweed.xml",
+      "size": 2919
+    },
+    {
+      "path": "Content/Game/Units/Stinkweed.xml",
+      "size": 2886
+    },
+    {
+      "path": "Content/Game/Units/Turret.xml",
+      "size": 5735
+    },
+    {
+      "path": "Content/Game/Units/Turtle.xml",
+      "size": 3703
+    },
+    {
+      "path": "Content/Game/Units/Ura.xml",
+      "size": 10064
+    },
+    {
+      "path": "Content/Game/Weapons/EnemyWeapons.xml",
+      "size": 82997
+    },
+    {
+      "path": "Content/Game/Weapons/MeleeWeapons.xml",
+      "size": 38480
+    },
+    {
+      "path": "Content/Game/Weapons/MoveWeapons.xml",
+      "size": 6485
+    },
+    {
+      "path": "Content/Game/Weapons/RangedWeapons.xml",
+      "size": 30651
+    },
+    {
+      "path": "Content/Game/Weapons/SpecialWeapons.xml",
+      "size": 51897
+    },
+    {
+      "path": "Content/Game/Weapons/StickWeapons.xml",
+      "size": 6272
+    },
+    {
+      "path": "Content/Game/Weapons/Weapons.xml",
+      "size": 19639
+    },
+    {
+      "path": "Content/GasfellaSquirt.pkg",
+      "size": 11954421
+    },
+    {
+      "path": "Content/Gauntlet01.pkg",
+      "size": 8054708
+    },
+    {
+      "path": "Content/Grenade.pkg",
+      "size": 400642
+    },
+    {
+      "path": "Content/Hammer.pkg",
+      "size": 7317948
+    },
+    {
+      "path": "Content/Hammer_Whirlwind.pkg",
+      "size": 235989
+    },
+    {
+      "path": "Content/HealthPotion.pkg",
+      "size": 214341
+    },
+    {
+      "path": "Content/Holdout01.pkg",
+      "size": 14179355
+    },
+    {
+      "path": "Content/Hunt01.pkg",
+      "size": 8379903
+    },
+    {
+      "path": "Content/Jump.pkg",
+      "size": 1292549
+    },
+    {
+      "path": "Content/Launch.pkg",
+      "size": 914412
+    },
+    {
+      "path": "Content/Longbow.pkg",
+      "size": 2656778
+    },
+    {
+      "path": "Content/Longbow_BouncingShot.pkg",
+      "size": 5
+    },
+    {
+      "path": "Content/Machete.pkg",
+      "size": 4659755
+    },
+    {
+      "path": "Content/Machete_Bladestorm.pkg",
+      "size": 2124851
+    },
+    {
+      "path": "Content/MainMenu.pkg",
+      "size": 18248643
+    },
+    {
+      "path": "Content/Maps/Attack01.map",
+      "size": 242879
+    },
+    {
+      "path": "Content/Maps/Attack01.prop",
+      "size": 1020
+    },
+    {
+      "path": "Content/Maps/Challenge01.map",
+      "size": 57661
+    },
+    {
+      "path": "Content/Maps/Challenge01.prop",
+      "size": 953
+    },
+    {
+      "path": "Content/Maps/Challenge02.map",
+      "size": 88725
+    },
+    {
+      "path": "Content/Maps/Challenge02.prop",
+      "size": 951
+    },
+    {
+      "path": "Content/Maps/Challenge03.map",
+      "size": 130678
+    },
+    {
+      "path": "Content/Maps/Challenge03.prop",
+      "size": 969
+    },
+    {
+      "path": "Content/Maps/Challenge04.map",
+      "size": 74098
+    },
+    {
+      "path": "Content/Maps/Challenge04.prop",
+      "size": 968
+    },
+    {
+      "path": "Content/Maps/Challenge05.map",
+      "size": 88223
+    },
+    {
+      "path": "Content/Maps/Challenge05.prop",
+      "size": 914
+    },
+    {
+      "path": "Content/Maps/Challenge06.map",
+      "size": 239687
+    },
+    {
+      "path": "Content/Maps/Challenge06.prop",
+      "size": 970
+    },
+    {
+      "path": "Content/Maps/Challenge07.map",
+      "size": 83144
+    },
+    {
+      "path": "Content/Maps/Challenge07.prop",
+      "size": 969
+    },
+    {
+      "path": "Content/Maps/Challenge08.map",
+      "size": 227055
+    },
+    {
+      "path": "Content/Maps/Challenge08.prop",
+      "size": 899
+    },
+    {
+      "path": "Content/Maps/Challenge09.map",
+      "size": 106711
+    },
+    {
+      "path": "Content/Maps/Challenge09.prop",
+      "size": 892
+    },
+    {
+      "path": "Content/Maps/Challenge10.map",
+      "size": 106023
+    },
+    {
+      "path": "Content/Maps/Challenge10.prop",
+      "size": 953
+    },
+    {
+      "path": "Content/Maps/Challenge11.map",
+      "size": 108979
+    },
+    {
+      "path": "Content/Maps/Challenge11.prop",
+      "size": 875
+    },
+    {
+      "path": "Content/Maps/Challenge12.map",
+      "size": 190586
+    },
+    {
+      "path": "Content/Maps/Challenge12.prop",
+      "size": 935
+    },
+    {
+      "path": "Content/Maps/Crossroads01.map",
+      "size": 319292
+    },
+    {
+      "path": "Content/Maps/Crossroads01.prop",
+      "size": 956
+    },
+    {
+      "path": "Content/Maps/Crossroads02.map",
+      "size": 554059
+    },
+    {
+      "path": "Content/Maps/Crossroads02.prop",
+      "size": 975
+    },
+    {
+      "path": "Content/Maps/End01.map",
+      "size": 43504
+    },
+    {
+      "path": "Content/Maps/End01.prop",
+      "size": 1127
+    },
+    {
+      "path": "Content/Maps/Falling01.map",
+      "size": 599563
+    },
+    {
+      "path": "Content/Maps/Falling01.prop",
+      "size": 955
+    },
+    {
+      "path": "Content/Maps/FinalArena01.map",
+      "size": 414517
+    },
+    {
+      "path": "Content/Maps/FinalArena01.prop",
+      "size": 955
+    },
+    {
+      "path": "Content/Maps/FinalChase01.map",
+      "size": 602114
+    },
+    {
+      "path": "Content/Maps/FinalChase01.prop",
+      "size": 959
+    },
+    {
+      "path": "Content/Maps/FinalRam01.map",
+      "size": 333233
+    },
+    {
+      "path": "Content/Maps/FinalRam01.prop",
+      "size": 961
+    },
+    {
+      "path": "Content/Maps/FinalZulf01.map",
+      "size": 687164
+    },
+    {
+      "path": "Content/Maps/FinalZulf01.prop",
+      "size": 959
+    },
+    {
+      "path": "Content/Maps/Fortress01.map",
+      "size": 527864
+    },
+    {
+      "path": "Content/Maps/Fortress01.prop",
+      "size": 996
+    },
+    {
+      "path": "Content/Maps/Gauntlet01.map",
+      "size": 813814
+    },
+    {
+      "path": "Content/Maps/Gauntlet01.prop",
+      "size": 1001
+    },
+    {
+      "path": "Content/Maps/Holdout01.map",
+      "size": 231794
+    },
+    {
+      "path": "Content/Maps/Holdout01.prop",
+      "size": 918
+    },
+    {
+      "path": "Content/Maps/Hunt01.map",
+      "size": 516976
+    },
+    {
+      "path": "Content/Maps/Hunt01.prop",
+      "size": 1000
+    },
+    {
+      "path": "Content/Maps/Moving01.map",
+      "size": 455525
+    },
+    {
+      "path": "Content/Maps/Moving01.prop",
+      "size": 952
+    },
+    {
+      "path": "Content/Maps/Onslaught01.map",
+      "size": 147115
+    },
+    {
+      "path": "Content/Maps/Onslaught01.prop",
+      "size": 1001
+    },
+    {
+      "path": "Content/Maps/Onslaught02.map",
+      "size": 105918
+    },
+    {
+      "path": "Content/Maps/Onslaught02.prop",
+      "size": 1144
+    },
+    {
+      "path": "Content/Maps/Onslaught03.map",
+      "size": 136383
+    },
+    {
+      "path": "Content/Maps/Onslaught03.prop",
+      "size": 983
+    },
+    {
+      "path": "Content/Maps/Onslaught04.map",
+      "size": 168025
+    },
+    {
+      "path": "Content/Maps/Onslaught04.prop",
+      "size": 1152
+    },
+    {
+      "path": "Content/Maps/Platforms01.map",
+      "size": 480788
+    },
+    {
+      "path": "Content/Maps/Platforms01.prop",
+      "size": 985
+    },
+    {
+      "path": "Content/Maps/ProtoIntro01.map",
+      "size": 352098
+    },
+    {
+      "path": "Content/Maps/ProtoIntro01.prop",
+      "size": 1162
+    },
+    {
+      "path": "Content/Maps/ProtoIntro01a.map",
+      "size": 232360
+    },
+    {
+      "path": "Content/Maps/ProtoIntro01a.prop",
+      "size": 1171
+    },
+    {
+      "path": "Content/Maps/ProtoIntro01b.map",
+      "size": 653142
+    },
+    {
+      "path": "Content/Maps/ProtoIntro01b.prop",
+      "size": 1200
+    },
+    {
+      "path": "Content/Maps/ProtoTown03.map",
+      "size": 446844
+    },
+    {
+      "path": "Content/Maps/ProtoTown03.prop",
+      "size": 4646
+    },
+    {
+      "path": "Content/Maps/Rescue01.map",
+      "size": 815154
+    },
+    {
+      "path": "Content/Maps/Rescue01.prop",
+      "size": 971
+    },
+    {
+      "path": "Content/Maps/Scenes01.map",
+      "size": 683513
+    },
+    {
+      "path": "Content/Maps/Scenes01.prop",
+      "size": 956
+    },
+    {
+      "path": "Content/Maps/Scenes02.map",
+      "size": 335414
+    },
+    {
+      "path": "Content/Maps/Scenes02.prop",
+      "size": 1054
+    },
+    {
+      "path": "Content/Maps/Scorched01.map",
+      "size": 466745
+    },
+    {
+      "path": "Content/Maps/Scorched01.prop",
+      "size": 984
+    },
+    {
+      "path": "Content/Maps/Shrine01.map",
+      "size": 156844
+    },
+    {
+      "path": "Content/Maps/Shrine01.prop",
+      "size": 991
+    },
+    {
+      "path": "Content/Maps/Siege01.map",
+      "size": 913940
+    },
+    {
+      "path": "Content/Maps/Siege01.prop",
+      "size": 955
+    },
+    {
+      "path": "Content/Maps/Survivor01.map",
+      "size": 443281
+    },
+    {
+      "path": "Content/Maps/Survivor01.prop",
+      "size": 950
+    },
+    {
+      "path": "Content/Maps/Survivor02.map",
+      "size": 515766
+    },
+    {
+      "path": "Content/Maps/Survivor02.prop",
+      "size": 950
+    },
+    {
+      "path": "Content/Maps/Voyage01.map",
+      "size": 709343
+    },
+    {
+      "path": "Content/Maps/Voyage01.prop",
+      "size": 960
+    },
+    {
+      "path": "Content/Mine.pkg",
+      "size": 774091
+    },
+    {
+      "path": "Content/Mole.pkg",
+      "size": 2984163
+    },
+    {
+      "path": "Content/Mortar.pkg",
+      "size": 2279142
+    },
+    {
+      "path": "Content/Mortar_SummonTurret.pkg",
+      "size": 1885645
+    },
+    {
+      "path": "Content/Moving01.pkg",
+      "size": 16627469
+    },
+    {
+      "path": "Content/Onslaught01.pkg",
+      "size": 11593468
+    },
+    {
+      "path": "Content/Onslaught02.pkg",
+      "size": 5355112
+    },
+    {
+      "path": "Content/Onslaught03.pkg",
+      "size": 5909102
+    },
+    {
+      "path": "Content/Onslaught04.pkg",
+      "size": 16368419
+    },
+    {
+      "path": "Content/Platforms01.pkg",
+      "size": 12725967
+    },
+    {
+      "path": "Content/PlayerAreaRoot.pkg",
+      "size": 1529337
+    },
+    {
+      "path": "Content/PlayerBase.pkg",
+      "size": 16434994
+    },
+    {
+      "path": "Content/PlayerDopplewalk.pkg",
+      "size": 2770241
+    },
+    {
+      "path": "Content/PlayerFullDeflection.pkg",
+      "size": 264973
+    },
+    {
+      "path": "Content/ProtoIntro01.pkg",
+      "size": 5831789
+    },
+    {
+      "path": "Content/ProtoIntro01a.pkg",
+      "size": 5522225
+    },
+    {
+      "path": "Content/ProtoIntro01b.pkg",
+      "size": 11589833
+    },
+    {
+      "path": "Content/ProtoTown03.pkg",
+      "size": 30117392
+    },
+    {
+      "path": "Content/RamPound.pkg",
+      "size": 2788751
+    },
+    {
+      "path": "Content/RamShieldBash.pkg",
+      "size": 4729579
+    },
+    {
+      "path": "Content/RamSwipe.pkg",
+      "size": 1769099
+    },
+    {
+      "path": "Content/Ram_Earthquake.pkg",
+      "size": 76457
+    },
+    {
+      "path": "Content/Repeater.pkg",
+      "size": 1981420
+    },
+    {
+      "path": "Content/Repeater_TwirlShot.pkg",
+      "size": 189349
+    },
+    {
+      "path": "Content/Rescue01.pkg",
+      "size": 13042732
+    },
+    {
+      "path": "Content/Revolvers.pkg",
+      "size": 3233182
+    },
+    {
+      "path": "Content/Rifle.pkg",
+      "size": 3189327
+    },
+    {
+      "path": "Content/Rifle_LaserShot.pkg",
+      "size": 1816
+    },
+    {
+      "path": "Content/Rifle_StickyBomb.pkg",
+      "size": 5
+    },
+    {
+      "path": "Content/Roll.pkg",
+      "size": 1293947
+    },
+    {
+      "path": "Content/Saves/DEXTERS-PC 22-5-2018 16-21.sav",
+      "size": 1572868
+    },
+    {
+      "path": "Content/Saves/DEXTERS-PC 22-5-2018 16-23.sav",
+      "size": 1572868
+    },
+    {
+      "path": "Content/Saves/DEXTERS-PC 22-5-2018 16-24.sav",
+      "size": 1572868
+    },
+    {
+      "path": "Content/Saves/DEXTERS-PC_Challenge09.sav",
+      "size": 1572868
+    },
+    {
+      "path": "Content/Saves/DEXTERS-PC_Challenge11.sav",
+      "size": 1572868
+    },
+    {
+      "path": "Content/Saves/DEXTERS-PC_Crossroads01.sav",
+      "size": 1572868
+    },
+    {
+      "path": "Content/Saves/DEXTERS-PC_Falling01.sav",
+      "size": 1572868
+    },
+    {
+      "path": "Content/Saves/DEXTERS-PC_FinalArena01.sav",
+      "size": 1572868
+    },
+    {
+      "path": "Content/Saves/DEXTERS-PC_Holdout01.sav",
+      "size": 1572868
+    },
+    {
+      "path": "Content/Saves/DEXTERS-PC_Onslaught01.sav",
+      "size": 1572868
+    },
+    {
+      "path": "Content/Saves/DEXTERS-PC_Onslaught03.sav",
+      "size": 1572868
+    },
+    {
+      "path": "Content/Saves/DEXTERS-PC_ProtoTown03.sav",
+      "size": 1572868
+    },
+    {
+      "path": "Content/Scenes01.pkg",
+      "size": 24462051
+    },
+    {
+      "path": "Content/Scenes02.pkg",
+      "size": 5359922
+    },
+    {
+      "path": "Content/Scorched01.pkg",
+      "size": 7092463
+    },
+    {
+      "path": "Content/ShieldBash.pkg",
+      "size": 2112913
+    },
+    {
+      "path": "Content/Shield_SummonSquirt.pkg",
+      "size": 562270
+    },
+    {
+      "path": "Content/Shotgun.pkg",
+      "size": 3174109
+    },
+    {
+      "path": "Content/Shotgun_BulletRain.pkg",
+      "size": 318288
+    },
+    {
+      "path": "Content/Shrine01.pkg",
+      "size": 14642034
+    },
+    {
+      "path": "Content/Siege01.pkg",
+      "size": 16185674
+    },
+    {
+      "path": "Content/Spear.pkg",
+      "size": 3293881
+    },
+    {
+      "path": "Content/Spear_Jump.pkg",
+      "size": 1314526
+    },
+    {
+      "path": "Content/Spear_Spin.pkg",
+      "size": 189101
+    },
+    {
+      "path": "Content/Subtitles/de/Attack01_DE.csv",
+      "size": 2405
+    },
+    {
+      "path": "Content/Subtitles/de/Challenge01_DE.csv",
+      "size": 1232
+    },
+    {
+      "path": "Content/Subtitles/de/Challenge02_DE.csv",
+      "size": 2071
+    },
+    {
+      "path": "Content/Subtitles/de/Challenge03_DE.csv",
+      "size": 1833
+    },
+    {
+      "path": "Content/Subtitles/de/Challenge04_DE.csv",
+      "size": 1840
+    },
+    {
+      "path": "Content/Subtitles/de/Challenge05_DE.csv",
+      "size": 1680
+    },
+    {
+      "path": "Content/Subtitles/de/Challenge06_DE.csv",
+      "size": 1660
+    },
+    {
+      "path": "Content/Subtitles/de/Challenge07_DE.csv",
+      "size": 1849
+    },
+    {
+      "path": "Content/Subtitles/de/Challenge08_DE.csv",
+      "size": 1610
+    },
+    {
+      "path": "Content/Subtitles/de/Challenge09_DE.csv",
+      "size": 1950
+    },
+    {
+      "path": "Content/Subtitles/de/Challenge10_DE.csv",
+      "size": 1460
+    },
+    {
+      "path": "Content/Subtitles/de/Challenge11_DE.csv",
+      "size": 1525
+    },
+    {
+      "path": "Content/Subtitles/de/Challenge12_DE.csv",
+      "size": 2369
+    },
+    {
+      "path": "Content/Subtitles/de/Crossroads01_DE.csv",
+      "size": 6120
+    },
+    {
+      "path": "Content/Subtitles/de/Crossroads02_DE.csv",
+      "size": 4481
+    },
+    {
+      "path": "Content/Subtitles/de/Dynamic_DE.csv",
+      "size": 983
+    },
+    {
+      "path": "Content/Subtitles/de/End01_DE.csv",
+      "size": 4840
+    },
+    {
+      "path": "Content/Subtitles/de/Falling01_DE.csv",
+      "size": 3354
+    },
+    {
+      "path": "Content/Subtitles/de/FinalArena01_DE.csv",
+      "size": 2183
+    },
+    {
+      "path": "Content/Subtitles/de/FinalChase01_DE.csv",
+      "size": 2009
+    },
+    {
+      "path": "Content/Subtitles/de/FinalRam01_DE.csv",
+      "size": 1728
+    },
+    {
+      "path": "Content/Subtitles/de/FinalZulf01_DE.csv",
+      "size": 2096
+    },
+    {
+      "path": "Content/Subtitles/de/Fortress01_DE.csv",
+      "size": 2556
+    },
+    {
+      "path": "Content/Subtitles/de/Gauntlet01_DE.csv",
+      "size": 4042
+    },
+    {
+      "path": "Content/Subtitles/de/Holdout01_DE.csv",
+      "size": 2865
+    },
+    {
+      "path": "Content/Subtitles/de/Hunt01_DE.csv",
+      "size": 4330
+    },
+    {
+      "path": "Content/Subtitles/de/IntroPickups_DE.csv",
+      "size": 855
+    },
+    {
+      "path": "Content/Subtitles/de/Menu_DE.csv",
+      "size": 15798
+    },
+    {
+      "path": "Content/Subtitles/de/Moving01_DE.csv",
+      "size": 4852
+    },
+    {
+      "path": "Content/Subtitles/de/OldLines01_DE.csv",
+      "size": 5526
+    },
+    {
+      "path": "Content/Subtitles/de/OldLines02_DE.csv",
+      "size": 1729
+    },
+    {
+      "path": "Content/Subtitles/de/Onslaught01_DE.csv",
+      "size": 3657
+    },
+    {
+      "path": "Content/Subtitles/de/Onslaught02_DE.csv",
+      "size": 3805
+    },
+    {
+      "path": "Content/Subtitles/de/Onslaught03_DE.csv",
+      "size": 3751
+    },
+    {
+      "path": "Content/Subtitles/de/Onslaught04_DE.csv",
+      "size": 6082
+    },
+    {
+      "path": "Content/Subtitles/de/Platforms01_DE.csv",
+      "size": 4411
+    },
+    {
+      "path": "Content/Subtitles/de/ProtoIntro01_DE.csv",
+      "size": 1656
+    },
+    {
+      "path": "Content/Subtitles/de/Rescue01_DE.csv",
+      "size": 4207
+    },
+    {
+      "path": "Content/Subtitles/de/Scenes01_DE.csv",
+      "size": 2303
+    },
+    {
+      "path": "Content/Subtitles/de/Scenes02_DE.csv",
+      "size": 2062
+    },
+    {
+      "path": "Content/Subtitles/de/Scorched01_DE.csv",
+      "size": 3747
+    },
+    {
+      "path": "Content/Subtitles/de/Shrine01_DE.csv",
+      "size": 3454
+    },
+    {
+      "path": "Content/Subtitles/de/Siege01_DE.csv",
+      "size": 5033
+    },
+    {
+      "path": "Content/Subtitles/de/Survivor01_DE.csv",
+      "size": 2968
+    },
+    {
+      "path": "Content/Subtitles/de/Survivor02_DE.csv",
+      "size": 2301
+    },
+    {
+      "path": "Content/Subtitles/de/Town_DE.csv",
+      "size": 21642
+    },
+    {
+      "path": "Content/Subtitles/de/Voyage01_DE.csv",
+      "size": 3154
+    },
+    {
+      "path": "Content/Subtitles/en/Attack01.csv",
+      "size": 2284
+    },
+    {
+      "path": "Content/Subtitles/en/Challenge01.csv",
+      "size": 894
+    },
+    {
+      "path": "Content/Subtitles/en/Challenge02.csv",
+      "size": 1588
+    },
+    {
+      "path": "Content/Subtitles/en/Challenge03.csv",
+      "size": 1566
+    },
+    {
+      "path": "Content/Subtitles/en/Challenge04.csv",
+      "size": 1326
+    },
+    {
+      "path": "Content/Subtitles/en/Challenge05.csv",
+      "size": 1253
+    },
+    {
+      "path": "Content/Subtitles/en/Challenge06.csv",
+      "size": 1403
+    },
+    {
+      "path": "Content/Subtitles/en/Challenge07.csv",
+      "size": 1604
+    },
+    {
+      "path": "Content/Subtitles/en/Challenge08.csv",
+      "size": 1232
+    },
+    {
+      "path": "Content/Subtitles/en/Challenge09.csv",
+      "size": 1435
+    },
+    {
+      "path": "Content/Subtitles/en/Challenge10.csv",
+      "size": 1108
+    },
+    {
+      "path": "Content/Subtitles/en/Challenge11.csv",
+      "size": 1225
+    },
+    {
+      "path": "Content/Subtitles/en/Challenge12.csv",
+      "size": 2117
+    },
+    {
+      "path": "Content/Subtitles/en/Crossroads01.csv",
+      "size": 6172
+    },
+    {
+      "path": "Content/Subtitles/en/Crossroads02.csv",
+      "size": 3945
+    },
+    {
+      "path": "Content/Subtitles/en/Dynamic.csv",
+      "size": 553
+    },
+    {
+      "path": "Content/Subtitles/en/End01.csv",
+      "size": 4349
+    },
+    {
+      "path": "Content/Subtitles/en/Falling01.csv",
+      "size": 3105
+    },
+    {
+      "path": "Content/Subtitles/en/FinalArena01.csv",
+      "size": 2029
+    },
+    {
+      "path": "Content/Subtitles/en/FinalChase01.csv",
+      "size": 1878
+    },
+    {
+      "path": "Content/Subtitles/en/FinalRam01.csv",
+      "size": 1604
+    },
+    {
+      "path": "Content/Subtitles/en/FinalZulf01.csv",
+      "size": 1935
+    },
+    {
+      "path": "Content/Subtitles/en/Fortress01.csv",
+      "size": 2504
+    },
+    {
+      "path": "Content/Subtitles/en/Gauntlet01.csv",
+      "size": 3814
+    },
+    {
+      "path": "Content/Subtitles/en/Holdout01.csv",
+      "size": 2584
+    },
+    {
+      "path": "Content/Subtitles/en/Hunt01.csv",
+      "size": 3677
+    },
+    {
+      "path": "Content/Subtitles/en/IntroPickups.csv",
+      "size": 650
+    },
+    {
+      "path": "Content/Subtitles/en/Menu.csv",
+      "size": 16561
+    },
+    {
+      "path": "Content/Subtitles/en/Moving01.csv",
+      "size": 4082
+    },
+    {
+      "path": "Content/Subtitles/en/OldLines01.csv",
+      "size": 5450
+    },
+    {
+      "path": "Content/Subtitles/en/OldLines02.csv",
+      "size": 21706
+    },
+    {
+      "path": "Content/Subtitles/en/Onslaught01.csv",
+      "size": 3653
+    },
+    {
+      "path": "Content/Subtitles/en/Onslaught02.csv",
+      "size": 3305
+    },
+    {
+      "path": "Content/Subtitles/en/Onslaught03.csv",
+      "size": 3568
+    },
+    {
+      "path": "Content/Subtitles/en/Onslaught04.csv",
+      "size": 5045
+    },
+    {
+      "path": "Content/Subtitles/en/Platforms01.csv",
+      "size": 3855
+    },
+    {
+      "path": "Content/Subtitles/en/ProtoIntro01.csv",
+      "size": 1889
+    },
+    {
+      "path": "Content/Subtitles/en/Rescue01.csv",
+      "size": 4117
+    },
+    {
+      "path": "Content/Subtitles/en/Scenes01.csv",
+      "size": 2109
+    },
+    {
+      "path": "Content/Subtitles/en/Scenes02.csv",
+      "size": 1980
+    },
+    {
+      "path": "Content/Subtitles/en/Scorched01.csv",
+      "size": 3593
+    },
+    {
+      "path": "Content/Subtitles/en/Shrine01.csv",
+      "size": 2748
+    },
+    {
+      "path": "Content/Subtitles/en/Siege01.csv",
+      "size": 4935
+    },
+    {
+      "path": "Content/Subtitles/en/Survivor01.csv",
+      "size": 2690
+    },
+    {
+      "path": "Content/Subtitles/en/Survivor02.csv",
+      "size": 1855
+    },
+    {
+      "path": "Content/Subtitles/en/Town.csv",
+      "size": 20749
+    },
+    {
+      "path": "Content/Subtitles/en/Voyage01.csv",
+      "size": 2921
+    },
+    {
+      "path": "Content/Subtitles/es/Attack01_ES.csv",
+      "size": 2391
+    },
+    {
+      "path": "Content/Subtitles/es/Challenge01_ES.csv",
+      "size": 1355
+    },
+    {
+      "path": "Content/Subtitles/es/Challenge02_ES.csv",
+      "size": 2132
+    },
+    {
+      "path": "Content/Subtitles/es/Challenge03_ES.csv",
+      "size": 2037
+    },
+    {
+      "path": "Content/Subtitles/es/Challenge04_ES.csv",
+      "size": 1785
+    },
+    {
+      "path": "Content/Subtitles/es/Challenge05_ES.csv",
+      "size": 1730
+    },
+    {
+      "path": "Content/Subtitles/es/Challenge06_ES.csv",
+      "size": 2000
+    },
+    {
+      "path": "Content/Subtitles/es/Challenge07_ES.csv",
+      "size": 2161
+    },
+    {
+      "path": "Content/Subtitles/es/Challenge08_ES.csv",
+      "size": 1753
+    },
+    {
+      "path": "Content/Subtitles/es/Challenge09_ES.csv",
+      "size": 2033
+    },
+    {
+      "path": "Content/Subtitles/es/Challenge10_ES.csv",
+      "size": 1512
+    },
+    {
+      "path": "Content/Subtitles/es/Challenge11_ES.csv",
+      "size": 1715
+    },
+    {
+      "path": "Content/Subtitles/es/Challenge12_ES.csv",
+      "size": 2555
+    },
+    {
+      "path": "Content/Subtitles/es/Crossroads01_ES.csv",
+      "size": 7068
+    },
+    {
+      "path": "Content/Subtitles/es/Crossroads02_ES.csv",
+      "size": 4590
+    },
+    {
+      "path": "Content/Subtitles/es/Dynamic_ES.csv",
+      "size": 1078
+    },
+    {
+      "path": "Content/Subtitles/es/End01_ES.csv",
+      "size": 4699
+    },
+    {
+      "path": "Content/Subtitles/es/Falling01_ES.csv",
+      "size": 3625
+    },
+    {
+      "path": "Content/Subtitles/es/FinalArena01_ES.csv",
+      "size": 2154
+    },
+    {
+      "path": "Content/Subtitles/es/FinalChase01_ES.csv",
+      "size": 1948
+    },
+    {
+      "path": "Content/Subtitles/es/FinalRam01_ES.csv",
+      "size": 1669
+    },
+    {
+      "path": "Content/Subtitles/es/FinalZulf01_ES.csv",
+      "size": 1940
+    },
+    {
+      "path": "Content/Subtitles/es/Fortress01_ES.csv",
+      "size": 2761
+    },
+    {
+      "path": "Content/Subtitles/es/Gauntlet01_ES.csv",
+      "size": 4144
+    },
+    {
+      "path": "Content/Subtitles/es/Holdout01_ES.csv",
+      "size": 3164
+    },
+    {
+      "path": "Content/Subtitles/es/Hunt01_ES.csv",
+      "size": 4252
+    },
+    {
+      "path": "Content/Subtitles/es/IntroPickups_ES.csv",
+      "size": 838
+    },
+    {
+      "path": "Content/Subtitles/es/Menu_ES.csv",
+      "size": 18821
+    },
+    {
+      "path": "Content/Subtitles/es/Moving01_ES.csv",
+      "size": 4725
+    },
+    {
+      "path": "Content/Subtitles/es/OldLines01_ES.csv",
+      "size": 6032
+    },
+    {
+      "path": "Content/Subtitles/es/OldLines02_ES.csv",
+      "size": 2063
+    },
+    {
+      "path": "Content/Subtitles/es/Onslaught01_ES.csv",
+      "size": 4072
+    },
+    {
+      "path": "Content/Subtitles/es/Onslaught02_ES.csv",
+      "size": 3747
+    },
+    {
+      "path": "Content/Subtitles/es/Onslaught03_ES.csv",
+      "size": 4054
+    },
+    {
+      "path": "Content/Subtitles/es/Onslaught04_ES.csv",
+      "size": 5704
+    },
+    {
+      "path": "Content/Subtitles/es/Platforms01_ES.csv",
+      "size": 4363
+    },
+    {
+      "path": "Content/Subtitles/es/ProtoIntro01_ES.csv",
+      "size": 1841
+    },
+    {
+      "path": "Content/Subtitles/es/Rescue01_ES.csv",
+      "size": 4390
+    },
+    {
+      "path": "Content/Subtitles/es/Scenes01_ES.csv",
+      "size": 2241
+    },
+    {
+      "path": "Content/Subtitles/es/Scenes02_ES.csv",
+      "size": 2182
+    },
+    {
+      "path": "Content/Subtitles/es/Scorched01_ES.csv",
+      "size": 3798
+    },
+    {
+      "path": "Content/Subtitles/es/Shrine01_ES.csv",
+      "size": 3437
+    },
+    {
+      "path": "Content/Subtitles/es/Siege01_ES.csv",
+      "size": 5770
+    },
+    {
+      "path": "Content/Subtitles/es/Survivor01_ES.csv",
+      "size": 3205
+    },
+    {
+      "path": "Content/Subtitles/es/Survivor02_ES.csv",
+      "size": 2342
+    },
+    {
+      "path": "Content/Subtitles/es/Town_ES.csv",
+      "size": 23795
+    },
+    {
+      "path": "Content/Subtitles/es/Voyage01_ES.csv",
+      "size": 3112
+    },
+    {
+      "path": "Content/Subtitles/fr/Attack01_FR.csv",
+      "size": 2463
+    },
+    {
+      "path": "Content/Subtitles/fr/Challenge01_FR.csv",
+      "size": 1262
+    },
+    {
+      "path": "Content/Subtitles/fr/Challenge02_FR.csv",
+      "size": 2037
+    },
+    {
+      "path": "Content/Subtitles/fr/Challenge03_FR.csv",
+      "size": 1961
+    },
+    {
+      "path": "Content/Subtitles/fr/Challenge04_FR.csv",
+      "size": 1798
+    },
+    {
+      "path": "Content/Subtitles/fr/Challenge05_FR.csv",
+      "size": 1705
+    },
+    {
+      "path": "Content/Subtitles/fr/Challenge06_FR.csv",
+      "size": 1873
+    },
+    {
+      "path": "Content/Subtitles/fr/Challenge07_FR.csv",
+      "size": 2076
+    },
+    {
+      "path": "Content/Subtitles/fr/Challenge08_FR.csv",
+      "size": 1714
+    },
+    {
+      "path": "Content/Subtitles/fr/Challenge09_FR.csv",
+      "size": 1967
+    },
+    {
+      "path": "Content/Subtitles/fr/Challenge10_FR.csv",
+      "size": 1530
+    },
+    {
+      "path": "Content/Subtitles/fr/Challenge11_FR.csv",
+      "size": 1666
+    },
+    {
+      "path": "Content/Subtitles/fr/Challenge12_FR.csv",
+      "size": 2502
+    },
+    {
+      "path": "Content/Subtitles/fr/Crossroads01_FR.csv",
+      "size": 6309
+    },
+    {
+      "path": "Content/Subtitles/fr/Crossroads02_FR.csv",
+      "size": 4345
+    },
+    {
+      "path": "Content/Subtitles/fr/Dynamic_FR.csv",
+      "size": 978
+    },
+    {
+      "path": "Content/Subtitles/fr/End01_FR.csv",
+      "size": 4590
+    },
+    {
+      "path": "Content/Subtitles/fr/Falling01_FR.csv",
+      "size": 3527
+    },
+    {
+      "path": "Content/Subtitles/fr/FinalArena01_FR.csv",
+      "size": 2174
+    },
+    {
+      "path": "Content/Subtitles/fr/FinalChase01_FR.csv",
+      "size": 1953
+    },
+    {
+      "path": "Content/Subtitles/fr/FinalRam01_FR.csv",
+      "size": 1731
+    },
+    {
+      "path": "Content/Subtitles/fr/FinalZulf01_FR.csv",
+      "size": 2077
+    },
+    {
+      "path": "Content/Subtitles/fr/Fortress01_FR.csv",
+      "size": 2659
+    },
+    {
+      "path": "Content/Subtitles/fr/Gauntlet01_FR.csv",
+      "size": 4253
+    },
+    {
+      "path": "Content/Subtitles/fr/Holdout01_FR.csv",
+      "size": 3078
+    },
+    {
+      "path": "Content/Subtitles/fr/Hunt01_FR.csv",
+      "size": 4195
+    },
+    {
+      "path": "Content/Subtitles/fr/IntroPickups_FR.csv",
+      "size": 815
+    },
+    {
+      "path": "Content/Subtitles/fr/Menu_FR.csv",
+      "size": 17701
+    },
+    {
+      "path": "Content/Subtitles/fr/Moving01_FR.csv",
+      "size": 4619
+    },
+    {
+      "path": "Content/Subtitles/fr/OldLines01_FR.csv",
+      "size": 5921
+    },
+    {
+      "path": "Content/Subtitles/fr/OldLines02_FR.csv",
+      "size": 1991
+    },
+    {
+      "path": "Content/Subtitles/fr/Onslaught01_FR.csv",
+      "size": 4079
+    },
+    {
+      "path": "Content/Subtitles/fr/Onslaught02_FR.csv",
+      "size": 3904
+    },
+    {
+      "path": "Content/Subtitles/fr/Onslaught03_FR.csv",
+      "size": 4026
+    },
+    {
+      "path": "Content/Subtitles/fr/Onslaught04_FR.csv",
+      "size": 5478
+    },
+    {
+      "path": "Content/Subtitles/fr/Platforms01_FR.csv",
+      "size": 4297
+    },
+    {
+      "path": "Content/Subtitles/fr/ProtoIntro01_FR.csv",
+      "size": 1763
+    },
+    {
+      "path": "Content/Subtitles/fr/Rescue01_FR.csv",
+      "size": 4403
+    },
+    {
+      "path": "Content/Subtitles/fr/Scenes01_FR.csv",
+      "size": 2272
+    },
+    {
+      "path": "Content/Subtitles/fr/Scenes02_FR.csv",
+      "size": 1992
+    },
+    {
+      "path": "Content/Subtitles/fr/Scorched01_FR.csv",
+      "size": 3833
+    },
+    {
+      "path": "Content/Subtitles/fr/Shrine01_FR.csv",
+      "size": 3299
+    },
+    {
+      "path": "Content/Subtitles/fr/Siege01_FR.csv",
+      "size": 5412
+    },
+    {
+      "path": "Content/Subtitles/fr/Survivor01_FR.csv",
+      "size": 3134
+    },
+    {
+      "path": "Content/Subtitles/fr/Survivor02_FR.csv",
+      "size": 2234
+    },
+    {
+      "path": "Content/Subtitles/fr/Town_FR.csv",
+      "size": 23405
+    },
+    {
+      "path": "Content/Subtitles/fr/Voyage01_FR.csv",
+      "size": 3367
+    },
+    {
+      "path": "Content/Subtitles/it/Attack01_IT.csv",
+      "size": 2422
+    },
+    {
+      "path": "Content/Subtitles/it/Challenge01_IT.csv",
+      "size": 1272
+    },
+    {
+      "path": "Content/Subtitles/it/Challenge02_IT.csv",
+      "size": 2016
+    },
+    {
+      "path": "Content/Subtitles/it/Challenge03_IT.csv",
+      "size": 1962
+    },
+    {
+      "path": "Content/Subtitles/it/Challenge04_IT.csv",
+      "size": 1817
+    },
+    {
+      "path": "Content/Subtitles/it/Challenge05_IT.csv",
+      "size": 1692
+    },
+    {
+      "path": "Content/Subtitles/it/Challenge06_IT.csv",
+      "size": 1896
+    },
+    {
+      "path": "Content/Subtitles/it/Challenge07_IT.csv",
+      "size": 2086
+    },
+    {
+      "path": "Content/Subtitles/it/Challenge08_IT.csv",
+      "size": 1680
+    },
+    {
+      "path": "Content/Subtitles/it/Challenge09_IT.csv",
+      "size": 1924
+    },
+    {
+      "path": "Content/Subtitles/it/Challenge10_IT.csv",
+      "size": 1477
+    },
+    {
+      "path": "Content/Subtitles/it/Challenge11_IT.csv",
+      "size": 1616
+    },
+    {
+      "path": "Content/Subtitles/it/Challenge12_IT.csv",
+      "size": 2785
+    },
+    {
+      "path": "Content/Subtitles/it/Crossroads01_IT.csv",
+      "size": 6598
+    },
+    {
+      "path": "Content/Subtitles/it/Crossroads02_IT.csv",
+      "size": 4814
+    },
+    {
+      "path": "Content/Subtitles/it/Dynamic_IT.csv",
+      "size": 1024
+    },
+    {
+      "path": "Content/Subtitles/it/End01_IT.csv",
+      "size": 4539
+    },
+    {
+      "path": "Content/Subtitles/it/Falling01_IT.csv",
+      "size": 3430
+    },
+    {
+      "path": "Content/Subtitles/it/FinalArena01_IT.csv",
+      "size": 2098
+    },
+    {
+      "path": "Content/Subtitles/it/FinalChase01_IT.csv",
+      "size": 1960
+    },
+    {
+      "path": "Content/Subtitles/it/FinalRam01_IT.csv",
+      "size": 1763
+    },
+    {
+      "path": "Content/Subtitles/it/FinalZulf01_IT.csv",
+      "size": 2005
+    },
+    {
+      "path": "Content/Subtitles/it/Fortress01_IT.csv",
+      "size": 2766
+    },
+    {
+      "path": "Content/Subtitles/it/Gauntlet01_IT.csv",
+      "size": 4153
+    },
+    {
+      "path": "Content/Subtitles/it/Holdout01_IT.csv",
+      "size": 3090
+    },
+    {
+      "path": "Content/Subtitles/it/Hunt01_IT.csv",
+      "size": 4300
+    },
+    {
+      "path": "Content/Subtitles/it/IntroPickups_IT.csv",
+      "size": 811
+    },
+    {
+      "path": "Content/Subtitles/it/Menu_IT.csv",
+      "size": 19587
+    },
+    {
+      "path": "Content/Subtitles/it/Moving01_IT.csv",
+      "size": 4429
+    },
+    {
+      "path": "Content/Subtitles/it/OldLines01_IT.csv",
+      "size": 5739
+    },
+    {
+      "path": "Content/Subtitles/it/OldLines02_IT.csv",
+      "size": 1885
+    },
+    {
+      "path": "Content/Subtitles/it/Onslaught01_IT.csv",
+      "size": 4006
+    },
+    {
+      "path": "Content/Subtitles/it/Onslaught02_IT.csv",
+      "size": 3973
+    },
+    {
+      "path": "Content/Subtitles/it/Onslaught03_IT.csv",
+      "size": 4134
+    },
+    {
+      "path": "Content/Subtitles/it/Onslaught04_IT.csv",
+      "size": 5707
+    },
+    {
+      "path": "Content/Subtitles/it/Platforms01_IT.csv",
+      "size": 4551
+    },
+    {
+      "path": "Content/Subtitles/it/ProtoIntro01_IT.csv",
+      "size": 1722
+    },
+    {
+      "path": "Content/Subtitles/it/Rescue01_IT.csv",
+      "size": 4663
+    },
+    {
+      "path": "Content/Subtitles/it/Scenes01_IT.csv",
+      "size": 2145
+    },
+    {
+      "path": "Content/Subtitles/it/Scenes02_IT.csv",
+      "size": 2056
+    },
+    {
+      "path": "Content/Subtitles/it/Scorched01_IT.csv",
+      "size": 3718
+    },
+    {
+      "path": "Content/Subtitles/it/Shrine01_IT.csv",
+      "size": 3163
+    },
+    {
+      "path": "Content/Subtitles/it/Siege01_IT.csv",
+      "size": 5526
+    },
+    {
+      "path": "Content/Subtitles/it/Survivor01_IT.csv",
+      "size": 3125
+    },
+    {
+      "path": "Content/Subtitles/it/Survivor02_IT.csv",
+      "size": 2276
+    },
+    {
+      "path": "Content/Subtitles/it/Town_IT.csv",
+      "size": 22201
+    },
+    {
+      "path": "Content/Subtitles/it/Voyage01_IT.csv",
+      "size": 3435
+    },
+    {
+      "path": "Content/Subtitles/zh/Attack01.csv",
+      "size": 2261
+    },
+    {
+      "path": "Content/Subtitles/zh/Challenge01.csv",
+      "size": 877
+    },
+    {
+      "path": "Content/Subtitles/zh/Challenge02.csv",
+      "size": 1423
+    },
+    {
+      "path": "Content/Subtitles/zh/Challenge03.csv",
+      "size": 1451
+    },
+    {
+      "path": "Content/Subtitles/zh/Challenge04.csv",
+      "size": 1214
+    },
+    {
+      "path": "Content/Subtitles/zh/Challenge05.csv",
+      "size": 1095
+    },
+    {
+      "path": "Content/Subtitles/zh/Challenge06.csv",
+      "size": 1294
+    },
+    {
+      "path": "Content/Subtitles/zh/Challenge07.csv",
+      "size": 1372
+    },
+    {
+      "path": "Content/Subtitles/zh/Challenge08.csv",
+      "size": 1163
+    },
+    {
+      "path": "Content/Subtitles/zh/Challenge09.csv",
+      "size": 1380
+    },
+    {
+      "path": "Content/Subtitles/zh/Challenge10.csv",
+      "size": 944
+    },
+    {
+      "path": "Content/Subtitles/zh/Challenge11.csv",
+      "size": 1066
+    },
+    {
+      "path": "Content/Subtitles/zh/Challenge12.csv",
+      "size": 1919
+    },
+    {
+      "path": "Content/Subtitles/zh/Crossroads01.csv",
+      "size": 5948
+    },
+    {
+      "path": "Content/Subtitles/zh/Crossroads02.csv",
+      "size": 3943
+    },
+    {
+      "path": "Content/Subtitles/zh/Dynamic.csv",
+      "size": 606
+    },
+    {
+      "path": "Content/Subtitles/zh/End01.csv",
+      "size": 4745
+    },
+    {
+      "path": "Content/Subtitles/zh/Falling01.csv",
+      "size": 3291
+    },
+    {
+      "path": "Content/Subtitles/zh/FinalArena01.csv",
+      "size": 2198
+    },
+    {
+      "path": "Content/Subtitles/zh/FinalChase01.csv",
+      "size": 2000
+    },
+    {
+      "path": "Content/Subtitles/zh/FinalRam01.csv",
+      "size": 1743
+    },
+    {
+      "path": "Content/Subtitles/zh/FinalZulf01.csv",
+      "size": 2118
+    },
+    {
+      "path": "Content/Subtitles/zh/Fortress01.csv",
+      "size": 2644
+    },
+    {
+      "path": "Content/Subtitles/zh/Gauntlet01.csv",
+      "size": 4070
+    },
+    {
+      "path": "Content/Subtitles/zh/Holdout01.csv",
+      "size": 2806
+    },
+    {
+      "path": "Content/Subtitles/zh/Hunt01.csv",
+      "size": 3759
+    },
+    {
+      "path": "Content/Subtitles/zh/IntroPickups.csv",
+      "size": 654
+    },
+    {
+      "path": "Content/Subtitles/zh/Menu.csv",
+      "size": 17677
+    },
+    {
+      "path": "Content/Subtitles/zh/Moving01.csv",
+      "size": 4304
+    },
+    {
+      "path": "Content/Subtitles/zh/OldLines01.csv",
+      "size": 5739
+    },
+    {
+      "path": "Content/Subtitles/zh/OldLines02.csv",
+      "size": 23274
+    },
+    {
+      "path": "Content/Subtitles/zh/Onslaught01.csv",
+      "size": 3870
+    },
+    {
+      "path": "Content/Subtitles/zh/Onslaught02.csv",
+      "size": 3349
+    },
+    {
+      "path": "Content/Subtitles/zh/Onslaught03.csv",
+      "size": 3912
+    },
+    {
+      "path": "Content/Subtitles/zh/Onslaught04.csv",
+      "size": 5097
+    },
+    {
+      "path": "Content/Subtitles/zh/Platforms01.csv",
+      "size": 3757
+    },
+    {
+      "path": "Content/Subtitles/zh/ProtoIntro01.csv",
+      "size": 1984
+    },
+    {
+      "path": "Content/Subtitles/zh/Rescue01.csv",
+      "size": 4085
+    },
+    {
+      "path": "Content/Subtitles/zh/Scenes01.csv",
+      "size": 2126
+    },
+    {
+      "path": "Content/Subtitles/zh/Scenes02.csv",
+      "size": 1930
+    },
+    {
+      "path": "Content/Subtitles/zh/Scorched01.csv",
+      "size": 3585
+    },
+    {
+      "path": "Content/Subtitles/zh/Shrine01.csv",
+      "size": 2762
+    },
+    {
+      "path": "Content/Subtitles/zh/Siege01.csv",
+      "size": 4892
+    },
+    {
+      "path": "Content/Subtitles/zh/Survivor01.csv",
+      "size": 2825
+    },
+    {
+      "path": "Content/Subtitles/zh/Survivor02.csv",
+      "size": 1923
+    },
+    {
+      "path": "Content/Subtitles/zh/Town.csv",
+      "size": 21348
+    },
+    {
+      "path": "Content/Subtitles/zh/Voyage01.csv",
+      "size": 3009
+    },
+    {
+      "path": "Content/SummonPortalTurret.pkg",
+      "size": 975708
+    },
+    {
+      "path": "Content/Survivor01.pkg",
+      "size": 8566018
+    },
+    {
+      "path": "Content/Survivor02.pkg",
+      "size": 12628069
+    },
+    {
+      "path": "Content/Textures/PS4.xnb",
+      "size": 50510
+    },
+    {
+      "path": "Content/Textures/failbag.xnb",
+      "size": 164581
+    },
+    {
+      "path": "Content/Textures/healthygame.xnb",
+      "size": 586309
+    },
+    {
+      "path": "Content/Ura.pkg",
+      "size": 7636365
+    },
+    {
+      "path": "Content/Voyage01.pkg",
+      "size": 17528267
+    }
+  ]
+}
